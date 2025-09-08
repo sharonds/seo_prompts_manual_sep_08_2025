@@ -1,0 +1,13 @@
+{
+  "company_name": "Example Company",
+  "founder_vision": "To revolutionize how small businesses manage customer relationships.",
+  "products_services": [
+    "CRM software",
+    "Customer support tools"
+  ],
+  "target_market": "Small businesses in North America",
+  "goals": [
+    "Increase market share",
+    "Boost brand awareness"
+  ]
+}

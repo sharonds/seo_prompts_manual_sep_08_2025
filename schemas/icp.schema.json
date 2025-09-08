@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "properties": {
+    "segments": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "demographics": {
+      "type": "object",
+      "properties": {
+        "age_range": {
+          "type": "string"
+        },
+        "location": {
+          "type": "string"
+        },
+        "job_titles": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "pain_points": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "buying_motives": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "segments",
+    "pain_points"
+  ]
+}

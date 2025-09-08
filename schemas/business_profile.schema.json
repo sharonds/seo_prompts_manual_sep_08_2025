@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "properties": {
+    "company_name": {
+      "type": "string"
+    },
+    "industry": {
+      "type": "string"
+    },
+    "business_model": {
+      "type": "string",
+      "enum": [
+        "B2B",
+        "B2C",
+        "B2B2C",
+        "Marketplace"
+      ]
+    },
+    "core_products": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "value_props": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "goals": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "company_name",
+    "industry",
+    "business_model",
+    "core_products"
+  ]
+}

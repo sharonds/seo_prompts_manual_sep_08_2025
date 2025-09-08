@@ -1,0 +1,31 @@
+{
+  "type": "object",
+  "properties": {
+    "company_name": {
+      "type": "string"
+    },
+    "founder_vision": {
+      "type": "string"
+    },
+    "products_services": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "target_market": {
+      "type": "string"
+    },
+    "goals": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": [
+    "company_name",
+    "founder_vision",
+    "products_services"
+  ]
+}
