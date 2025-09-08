@@ -1,8 +1,3 @@
-Got it ✅ — thanks for clarifying.
-Here’s the **PRD specifically for the manual run mode** (7 prompts, no orchestrator). It’s written so your Copilot (or any AI assistant) can quickly understand the context.
-
----
-
 # PRD — Manual Run (7 Prompts, MVP v1)
 
 ## 1. Project Goal
@@ -20,6 +15,8 @@ Enable a **manual execution flow** for the SEO Content Strategy recipe using **s
 * Input = JSON files (saved per client).
 * Output = JSON files (saved per client/date).
 * No orchestrator, no evaluators, no ledger, no DB.
+* Inputs flow step-to-step based on the dependency map; the initial input is provided by the operator as `business_profile` JSON.
+* Standard naming convention for files under `/client/date/` for consistency, e.g., `step01_founder_intake.output.json`.
 
 ## 3. Steps (SEO Recipe v1 — Manual Prompts)
 
@@ -46,6 +43,7 @@ Enable a **manual execution flow** for the SEO Content Strategy recipe using **s
 * 7 output JSON files per client run.
 * Final artifact = **Content Strategy JSON** (pillars, funnel stages, priorities).
 * Manual human review of outputs for quality.
+* Each output JSON must include a `_meta` field containing `schema_version`, `produced_by`, and `timestamp`.
 
 ## 6. Out of Scope
 
@@ -60,6 +58,8 @@ Enable a **manual execution flow** for the SEO Content Strategy recipe using **s
 * User can complete **end-to-end recipe manually** in ≤1 hour.
 * Outputs are **valid JSON** matching schemas.
 * Final strategy output is **specific, actionable, and aligned** with the founder’s vision.
+* Reviewer validates cross-step coherence (e.g., ICP personas align with customer journey, clusters align with strategy).
+* Unknown values are explicitly labeled as `unknown` where data is sparse.
 
 ---
 

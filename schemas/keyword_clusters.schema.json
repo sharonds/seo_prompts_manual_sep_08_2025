@@ -1,34 +1,52 @@
 {
-  "type": "array",
-  "items": {
-    "type": "object",
-    "properties": {
-      "cluster_name": {
-        "type": "string"
-      },
-      "keywords": {
-        "type": "array",
-        "items": {
-          "type": "string"
-        }
-      },
-      "avg_volume": {
-        "type": "integer"
-      },
-      "business_priority_score": {
-        "type": "integer",
-        "minimum": 1,
-        "maximum": 5
-      },
-      "confidence_level": {
-        "type": "number",
-        "minimum": 0,
-        "maximum": 1
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Keyword Clusters (Foundation)",
+  "type": "object",
+  "properties": {
+    "clusters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "cluster_name": { "type": "string" },
+          "dominant_intent": { 
+            "type": "string", 
+            "enum": ["informational", "navigational", "transactional", "commercial"] 
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "keyword": { "type": "string" },
+                "search_volume": { "type": ["integer", "string"], "description": "If unknown, use 'unknown'" },
+                "difficulty": { "type": ["number", "string"], "description": "If unknown, use 'unknown'" },
+                "intent": { 
+                  "type": "string", 
+                  "enum": ["informational", "navigational", "transactional", "commercial"] 
+                },
+                "metrics_source": { "type": "string" }
+              },
+              "required": ["keyword"]
+            }
+          },
+          "recommended_content_type": { "type": "string", "description": "blog, FAQ, landing page, guide" },
+          "priority": { "type": "string", "enum": ["high", "medium", "low"] },
+          "priority_reasoning": { "type": "string" }
+        },
+        "required": ["cluster_name", "keywords"]
       }
     },
-    "required": [
-      "cluster_name",
-      "keywords"
-    ]
-  }
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string", "default": "1.0.0" },
+        "produced_by": { "type": "string", "default": "keyword_clustering" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["schema_version", "produced_by", "timestamp"]
+    }
+  },
+  "required": ["clusters", "_meta"],
+  "additionalProperties": false
 }

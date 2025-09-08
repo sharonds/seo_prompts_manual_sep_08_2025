@@ -1,0 +1,59 @@
+recipe: foundation_seo
+version: 1.0.0
+dependencies:
+  - from: founder_intake.business_profile.industry
+    to: icp.personas[].context
+
+  - from: founder_intake.business_profile.services
+    to: icp.personas[].needs
+
+  - from: founder_intake.business_profile.goals
+    to: icp.personas[].goals
+
+  - from: icp.personas[].pains
+    to: customer_journey.stages[].questions
+
+  - from: icp.personas[].goals
+    to: customer_journey.stages[].content_needs
+
+  - from: icp.personas[].behaviors
+    to: customer_journey.stages[].funnel_mapping
+
+  - from: customer_journey.stages[].content_needs
+    to: keyword_discovery.raw_keywords[]
+
+  - from: customer_journey.stages[].questions
+    to: keyword_discovery.raw_keywords[]
+
+  - from: keyword_discovery.raw_keywords[]
+    to: keyword_metrics.keywords[]
+
+  - from: keyword_metrics.keywords[]
+    to: keyword_clustering.clusters[].keywords[]
+
+  - from: keyword_metrics.keywords[].intent
+    to: keyword_clustering.clusters[].intent
+
+  - from: keyword_metrics.keywords[].volume
+    to: keyword_clustering.priority_inputs
+
+  - from: keyword_clustering.clusters[].cluster_name
+    to: content_plan.pillars[].clusters[].cluster_name
+
+  - from: keyword_clustering.clusters[].keywords[]
+    to: content_plan.pillars[].clusters[].keywords[]
+
+  - from: keyword_clustering.clusters[].intent
+    to: content_plan.pillars[].funnel_stage
+
+  - from: keyword_clustering.priority
+    to: content_plan.pillars[].priority
+
+  - from: keyword_clustering.priority_reasoning
+    to: content_plan.pillars[].priority_rationale
+
+  - from: founder_intake.business_profile.goals
+    to: content_plan.pillars[].priority_rationale
+
+  - from: icp.personas[]
+    to: content_plan.pillars[].alignment
