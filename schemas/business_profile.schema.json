@@ -1,44 +1,280 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Business Profile Schema — Output of Prompt 1",
   "type": "object",
   "properties": {
     "company_name": {
-      "type": "string"
+      "type": "string",
+      "description": "Full company name"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "Company website URL"
+    },
+    "hq_country": {
+      "type": "string",
+      "description": "Headquarters country"
+    },
+    "geo_markets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Geographic markets served"
     },
     "industry": {
-      "type": "string"
-    },
-    "business_model": {
       "type": "string",
-      "enum": [
-        "B2B",
-        "B2C",
-        "B2B2C",
-        "Marketplace"
-      ]
+      "description": "Primary industry"
     },
-    "core_products": {
+    "sub_industry": {
+      "type": "string",
+      "description": "Sub-industry specialization"
+    },
+    "stage": {
+      "type": "string",
+      "enum": ["Pre-seed", "Seed", "Series A", "Growth", "SMB", "Enterprise"],
+      "description": "Company stage"
+    },
+
+    "vision_summary": {
+      "type": "string",
+      "description": "Consolidated vision and mission statement"
+    },
+
+    "products_services": {
       "type": "array",
       "items": {
-        "type": "string"
-      }
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Product/service name"
+          },
+          "category": {
+            "type": "string",
+            "description": "Product/service category"
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed description"
+          },
+          "key_features": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Key features or capabilities"
+          },
+          "expected_outcomes": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "Expected outcomes or benefits"
+          }
+        },
+        "required": ["name", "category"]
+      },
+      "description": "Detailed products and services"
     },
-    "value_props": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
+
+    "business_model": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "description": "Business model type"
+        },
+        "pricing_model": {
+          "type": "string",
+          "description": "Pricing strategy and model"
+        }
+      },
+      "description": "Business model details"
     },
-    "goals": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
+
+    "market_context": {
+      "type": "object",
+      "properties": {
+        "competitors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "Competitor name"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "description": "Competitor website"
+              },
+              "positioning_notes": {
+                "type": "string",
+                "description": "Notes on competitor positioning"
+              }
+            },
+            "required": ["name"]
+          },
+          "description": "Key competitors in the market"
+        },
+        "alternatives": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Alternative solutions or approaches"
+        },
+        "seed_keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Initial keywords for SEO research"
+        }
+      },
+      "description": "Market context and competitive landscape"
+    },
+
+    "positioning_summary": {
+      "type": "object",
+      "properties": {
+        "value_props": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Key value propositions"
+        },
+        "unfair_advantage": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Unique competitive advantages"
+        }
+      },
+      "description": "Positioning and competitive advantages"
+    },
+
+    "strategic_goals": {
+      "type": "object",
+      "properties": {
+        "primary_objective": {
+          "type": "string",
+          "description": "Main strategic objective"
+        },
+        "timeframe_days": {
+          "type": "integer",
+          "description": "Timeframe in days"
+        },
+        "success_kpis": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string",
+                "description": "KPI name"
+              },
+              "target": {
+                "type": "number",
+                "description": "Target value for the KPI"
+              }
+            },
+            "required": ["name"]
+          },
+          "description": "Key performance indicators with targets"
+        }
+      },
+      "description": "Strategic goals and success metrics"
+    },
+
+    "seo_constraints": {
+      "type": "object",
+      "properties": {
+        "target_countries": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Target countries for SEO"
+        },
+        "target_languages": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Target languages for content"
+        },
+        "must_include_terms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Terms that must be included in content"
+        },
+        "must_exclude_terms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Terms that must be excluded from content"
+        },
+        "compliance_notes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Legal and compliance considerations"
+        }
+      },
+      "description": "SEO and content constraints"
+    },
+
+    "content_preferences": {
+      "type": "object",
+      "properties": {
+        "formats_priority": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Preferred content formats in priority order"
+        },
+        "cadence_per_week": {
+          "type": "integer",
+          "description": "Content publishing cadence per week"
+        },
+        "distribution_channels": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Preferred distribution channels"
+        }
+      },
+      "description": "Content creation and distribution preferences"
+    },
+
+    "operational": {
+      "type": "object",
+      "properties": {
+        "deadline_hard_date": {
+          "type": "string",
+          "format": "date",
+          "description": "Hard deadline date"
+        }
+      },
+      "description": "Operational details and deadlines"
     }
   },
   "required": [
     "company_name",
     "industry",
-    "business_model",
-    "core_products"
+    "products_services",
+    "vision_summary"
   ]
 }
