@@ -1,31 +1,125 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Founder Intake Input Schema",
   "type": "object",
   "properties": {
-    "company_name": {
-      "type": "string"
+    "company_name": { "type": "string" },
+    "website": { "type": "string", "format": "uri" },
+    "hq_country": { "type": "string" },
+    "geo_markets": { "type": "array", "items": { "type": "string" } },
+    "industry": { "type": "string" },
+    "sub_industry": { "type": "string" },
+    "stage": { 
+      "type": "string",
+      "enum": ["Pre-seed", "Seed", "Series A", "Growth", "SMB", "Enterprise"]
     },
-    "founder_vision": {
-      "type": "string"
+
+    "vision": {
+      "type": "object",
+      "properties": {
+        "mission": { "type": "string" },
+        "narrative": { "type": "string" }
+      },
+      "required": ["mission"]
     },
+
     "products_services": {
       "type": "array",
       "items": {
-        "type": "string"
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "category": { "type": "string" },
+          "description": { "type": "string" },
+          "key_features": { "type": "array", "items": { "type": "string" } },
+          "expected_outcomes": { "type": "array", "items": { "type": "string" } }
+        },
+        "required": ["name", "category"]
       }
     },
-    "target_market": {
-      "type": "string"
+
+    "business_model": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string" },
+        "pricing_model": { "type": "string" },
+        "notes": { "type": "string" }
+      }
     },
+
+    "market_context": {
+      "type": "object",
+      "properties": {
+        "competitors": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "url": { "type": "string", "format": "uri" },
+              "notes": { "type": "string" }
+            },
+            "required": ["name"]
+          }
+        },
+        "alternatives": { "type": "array", "items": { "type": "string" } },
+        "seed_keywords": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
+    "positioning": {
+      "type": "object",
+      "properties": {
+        "value_props": { "type": "array", "items": { "type": "string" } },
+        "unfair_advantage": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
     "goals": {
-      "type": "array",
-      "items": {
-        "type": "string"
+      "type": "object",
+      "properties": {
+        "primary_objective": { "type": "string" },
+        "timeframe_days": { "type": "integer" },
+        "success_kpis": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": { "type": "string" },
+              "target": { "type": "number" }
+            },
+            "required": ["name"]
+          }
+        }
+      }
+    },
+
+    "seo_constraints": {
+      "type": "object",
+      "properties": {
+        "target_countries": { "type": "array", "items": { "type": "string" } },
+        "target_languages": { "type": "array", "items": { "type": "string" } },
+        "must_include_terms": { "type": "array", "items": { "type": "string" } },
+        "must_exclude_terms": { "type": "array", "items": { "type": "string" } },
+        "compliance_notes": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
+    "content_preferences": {
+      "type": "object",
+      "properties": {
+        "formats_priority": { "type": "array", "items": { "type": "string" } },
+        "cadence_per_week": { "type": "integer" },
+        "distribution_channels": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+
+    "operational": {
+      "type": "object",
+      "properties": {
+        "deadline_hard_date": { "type": "string", "format": "date" }
       }
     }
   },
-  "required": [
-    "company_name",
-    "founder_vision",
-    "products_services"
-  ]
+  "required": ["company_name", "industry", "products_services", "vision"]
 }

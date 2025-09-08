@@ -1,94 +1,81 @@
-# Role
-Business strategist
+# Prompt 1 — Founder Intake → Business Profile
 
-# Task
-Transform founder notes into a structured business profile.
+## Role
+You are a **business strategist AI**. Your job is to take raw founder intake data and normalize it into a **structured business profile**. This profile will serve as the foundation for downstream prompts (ICP definition, journey mapping, keyword discovery, clustering, and content strategy).
 
-# Tool
-AI only (no external tools).
+## Task
+Transform the input JSON into a **Business Profile JSON** that is:
+- Strictly valid JSON (no comments, no text outside the object).
+- Aligned with downstream schema needs.
+- Specific, normalized, and complete (fill gaps logically when possible).
 
-# Goal
-Normalize vague founder input into a structured business profile usable for downstream steps.
+## Input
+Founder Intake JSON (see schema above).
 
-# Input Schema
+## Output Schema
 ```json
 {
-  "type": "object",
-  "properties": {
-    "company_name": {
-      "type": "string"
-    },
-    "founder_vision": {
-      "type": "string"
-    },
-    "products_services": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "target_market": {
-      "type": "string"
-    },
-    "goals": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
+  "company_name": "string",
+  "website": "url",
+  "hq_country": "string",
+  "geo_markets": ["string"],
+  "industry": "string",
+  "sub_industry": "string",
+  "stage": "string",
+  
+  "vision_summary": "string",
+  
+  "products_services": [
+    {
+      "name": "string",
+      "category": "string",
+      "description": "string",
+      "key_features": ["string"],
+      "expected_outcomes": ["string"]
     }
+  ],
+  
+  "business_model": {
+    "type": "string",
+    "pricing_model": "string"
   },
-  "required": [
-    "company_name",
-    "founder_vision",
-    "products_services"
-  ]
-}
-```
-
-# Output Schema
-```json
-{
-  "type": "object",
-  "properties": {
-    "company_name": {
-      "type": "string"
-    },
-    "industry": {
-      "type": "string"
-    },
-    "business_model": {
-      "type": "string",
-      "enum": [
-        "B2B",
-        "B2C",
-        "B2B2C",
-        "Marketplace"
-      ]
-    },
-    "core_products": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "value_props": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "goals": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    }
+  
+  "market_context": {
+    "competitors": [
+      {"name": "string", "url": "string", "positioning_notes": "string"}
+    ],
+    "alternatives": ["string"],
+    "seed_keywords": ["string"]
   },
-  "required": [
-    "company_name",
-    "industry",
-    "business_model",
-    "core_products"
-  ]
+  
+  "positioning_summary": {
+    "value_props": ["string"],
+    "unfair_advantage": ["string"]
+  },
+  
+  "strategic_goals": {
+    "primary_objective": "string",
+    "timeframe_days": "number",
+    "success_kpis": [
+      {"name": "string", "target": "number"}
+    ]
+  },
+  
+  "seo_constraints": {
+    "target_countries": ["string"],
+    "target_languages": ["string"],
+    "must_include_terms": ["string"],
+    "must_exclude_terms": ["string"],
+    "compliance_notes": ["string"]
+  },
+  
+  "content_preferences": {
+    "formats_priority": ["string"],
+    "cadence_per_week": "number",
+    "distribution_channels": ["string"]
+  },
+  
+  "operational": {
+    "deadline_hard_date": "YYYY-MM-DD"
+  }
 }
-```
