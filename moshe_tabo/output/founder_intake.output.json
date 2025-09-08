@@ -1,157 +1,21 @@
 {
   "company_name": "Moshe Tabo - Long-term Care Insurance Attorney",
-  "website": "https://www.moshetabo.co.il",
-  "hq_country": "Israel",
-  "geo_markets": ["Israel"],
   "industry": "Legal Services",
-  "sub_industry": "Long-term Care Insurance Claims",
-  "stage": "SMB",
-  
-  "vision_summary": "Attorney Moshe Tabo specializes in LTC insurance claims with 15+ years of experience, offering hands-on guidance and representation to maximize policyholder rights when insurers deny or underpay benefits. The mission is to provide expert, personal representation for policyholders in long-term care insurance claims against all major insurers in Israel.",
-  
-  "products_services": [
-    {
-      "name": "LTC insurance claim representation",
-      "category": "Legal Service",
-      "description": "End-to-end handling of private long-term care insurance claims, from initial assessment to filing, negotiations, and appeals.",
-      "key_features": [
-        "Claim eligibility assessment",
-        "Medical and functional documentation guidance",
-        "Representation vs. all major insurers (Harel, Menora, Clal, Migdal, etc.)",
-        "Appeals and dispute resolution"
-      ],
-      "expected_outcomes": [
-        "Higher likelihood of claim approval",
-        "Maximized monthly LTC benefits",
-        "Reduced administrative burden on families"
-      ]
-    },
-    {
-      "name": "Consultation on LTC policy and rights",
-      "category": "Consulting",
-      "description": "One-on-one consultation to review policy terms, eligibility, claim steps, and documentation expectations.",
-      "key_features": [
-        "Policy review and interpretation",
-        "Next-step action plan",
-        "Document checklist"
-      ],
-      "expected_outcomes": [
-        "Clarity on rights and options",
-        "Prepared documentation for faster processing"
-      ]
-    }
+  "business_model": "B2B",
+  "core_products": [
+    "LTC insurance claim representation",
+    "Consultation on LTC policy and rights"
   ],
-  
-  "business_model": {
-    "type": "Professional services",
-    "pricing_model": "Consultation-based; case-dependent fees"
-  },
-  
-  "market_context": {
-    "competitors": [
-      {
-        "name": "Cohen & Co. Law Firm",
-        "url": "https://www.cohenlaw.co.il",
-        "positioning_notes": "General practice law firm with some insurance litigation experience"
-      },
-      {
-        "name": "Levi Insurance Law Specialists",
-        "url": "https://www.leviinsurance.co.il",
-        "positioning_notes": "Insurance law specialists with broader focus beyond LTC claims"
-      },
-      {
-        "name": "Goldberg & Associates",
-        "url": "https://www.goldberg-law.co.il",
-        "positioning_notes": "Established law firm handling various insurance disputes"
-      }
-    ],
-    "alternatives": [
-      "Filing claim independently with the insurer",
-      "Getting help from the insurance agent",
-      "Non-profit or community advocacy assistance"
-    ],
-    "seed_keywords": [
-      "עו\"ד סיעודי",
-      "תביעת ביטוח סיעודי",
-      "עורך דין ביטוח סיעודי",
-      "ערעור ביטוח סיעודי",
-      "הראל ביטוח סיעודי",
-      "מנורה ביטוח סיעודי",
-      "כלל ביטוח סיעודי",
-      "מגדל ביטוח סיעודי",
-      "ייצוג מול חברת ביטוח סיעודי",
-      "זכויות מבוטחים סיעוד"
-    ]
-  },
-  
-  "positioning_summary": {
-    "value_props": [
-      "15+ years focused on LTC claims",
-      "Personal, end-to-end representation",
-      "Experience with all major Israeli insurers",
-      "Clear, step-by-step claim process"
-    ],
-    "unfair_advantage": [
-      "Deep specialization in LTC insurance",
-      "Hands-on guidance reducing family burden"
-    ]
-  },
-  
-  "strategic_goals": {
-    "primary_objective": "Increase qualified consultations and signed LTC claim cases",
-    "timeframe_days": 90,
-    "success_kpis": [
-      {
-        "name": "Qualified consultation requests",
-        "target": 50
-      },
-      {
-        "name": "Signed representation agreements",
-        "target": 15
-      },
-      {
-        "name": "Blog organic sessions",
-        "target": 1000
-      }
-    ]
-  },
-  
-  "seo_constraints": {
-    "target_countries": ["Israel"],
-    "target_languages": ["Hebrew"],
-    "must_include_terms": [
-      "ביטוח סיעודי",
-      "תביעת ביטוח סיעודי",
-      "עו\"ד סיעודי"
-    ],
-    "must_exclude_terms": [
-      "פלילי",
-      "תאונות דרכים",
-      "נדל\"ן"
-    ],
-    "compliance_notes": [
-      "Avoid guarantees of outcomes; adhere to Israel Bar advertising rules.",
-      "Use clear disclaimers where appropriate."
-    ]
-  },
-  
-  "content_preferences": {
-    "formats_priority": [
-      "Blog posts",
-      "Step-by-step guides",
-      "FAQs",
-      "Case studies",
-      "Checklists"
-    ],
-    "cadence_per_week": 2,
-    "distribution_channels": [
-      "Website blog",
-      "LinkedIn",
-      "Facebook"
-    ]
-  },
-  
-  "operational": {
-    "deadline_hard_date": "2025-12-08"
-  }
+  "value_props": [
+    "15+ years focused on LTC claims",
+    "Personal, end-to-end representation",
+    "Experience with all major Israeli insurers",
+    "Clear, step-by-step claim process"
+  ],
+  "goals": [
+    "Increase qualified consultations and signed LTC claim cases",
+    "Achieve 50 qualified consultation requests",
+    "Secure 15 signed representation agreements",
+    "Generate 1000 blog organic sessions"
+  ]
 }
