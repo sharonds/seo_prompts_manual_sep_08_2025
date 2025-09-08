@@ -1,0 +1,65 @@
+{
+  "personas": [
+    {
+      "persona_name": "Adult Children of Aging Parents",
+      "description": "Adult children (ages 40-65) dealing with aging parents who require long-term care and are struggling with insurance claims for nursing care benefits.",
+      "context": "Family caregivers in Israel facing complex insurance bureaucracy while managing elderly parent care needs, particularly those with functional or cognitive decline.",
+      "pains": [
+        "Insurance companies denying or delaying nursing care claims",
+        "Complex legal paperwork and procedures for insurance claims",
+        "Emotional stress of caring for declining parent while fighting bureaucracy",
+        "Financial burden of care costs without proper insurance coverage",
+        "Lack of knowledge about legal rights and insurance entitlements",
+        "Time pressure balancing work, family, and care responsibilities"
+      ],
+      "goals": [
+        "Secure rightful insurance benefits for parent's care needs",
+        "Reduce financial burden of long-term care costs",
+        "Get professional legal representation against insurance companies",
+        "Ensure parent receives proper care without family financial strain",
+        "Navigate insurance claims process efficiently and successfully"
+      ],
+      "behaviors": [
+        "Search online for information about nursing care insurance rights",
+        "Seek referrals from doctors, social workers, and other families",
+        "Research lawyers specializing in insurance law through Google searches",
+        "Read testimonials and success stories before choosing legal representation",
+        "Prefer Hebrew-language resources and communication",
+        "Value personal consultations and responsive communication"
+      ]
+    },
+    {
+      "persona_name": "Insurance Policyholders with Care Needs",
+      "description": "Individuals (ages 60+) with long-term care insurance policies who need nursing care due to functional limitations or cognitive decline but face claim denials.",
+      "context": "Israeli seniors or their immediate family members dealing with conditions like Alzheimer's, Parkinson's, dementia, or physical disabilities requiring daily care assistance.",
+      "pains": [
+        "Insurance company rejecting claims despite paying premiums for years",
+        "Difficulty proving eligibility for nursing care benefits",
+        "Overwhelming bureaucratic processes and documentation requirements",
+        "Financial stress from paying for care while fighting for coverage",
+        "Fear of being taken advantage of by insurance companies",
+        "Health deterioration while waiting for claim resolution"
+      ],
+      "goals": [
+        "Receive approved insurance coverage for nursing care expenses",
+        "Get expert legal advocacy against powerful insurance companies",
+        "Secure financial peace of mind for care needs",
+        "Protect their rights as paying insurance customers",
+        "Focus on health and family rather than insurance battles"
+      ],
+      "behaviors": [
+        "Research their policy terms and coverage details online",
+        "Seek recommendations from healthcare providers and support groups",
+        "Look for lawyers with proven track record against major insurance companies",
+        "Prefer face-to-face consultations and personal service",
+        "Value lawyers who understand the emotional aspects of their situation",
+        "Search in Hebrew for local legal experts with insurance specialization"
+      ]
+    }
+  ],
+  "_meta": {
+    "schema_version": "1.0.0",
+    "produced_by": "icp_definition",
+    "timestamp": "2025-09-08T00:00:00Z"
+  }
+}

@@ -3,58 +3,84 @@
     {
       "stage": "awareness",
       "questions": [
-        "What are my rights as an LTC insurance policyholder in Israel?",
-        "When do I need a lawyer for my long-term care insurance claim?",
-        "What signs indicate my insurance claim might be unfairly denied?",
-        "How do I know if my LTC policy covers my current medical condition?",
-        "What should I do if my insurance company is delaying my claim payment?"
+        "ביטוח סיעוד מה זה ואיך יודעים אם זכאי",
+        "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד",
+        "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד",
+        "למה חברת הביטוח דוחה תביעה סיעוד",
+        "איך מגישים תביעת ביטוח סיעוד צעד צעד",
+        "מה הזכויות שלי כמבוטח מול חברת הביטוח",
+        "מתי צריך עורך דין לביטוח סיעוד",
+        "איך מוכיחים בעיות תפקוד לחברת ביטוח",
+        "חברת ביטוח לא מכירה באלצהיימר מה עושים",
+        "כמטפל איך מתמודדים עם דחיית תביעה"
       ],
       "content_needs": [
-        "Guide: LTC Insurance Policyholder Rights in Israel",
-        "Blog: When to Contact a Lawyer for Insurance Claims",
-        "Infographic: Signs of Insurance Claim Denial",
-        "FAQ: Understanding LTC Policy Coverage Terms",
-        "Article: What to Do When Insurance Delays Your Claim"
+        "מדריך מפורט זכויות המבוטח בביטוח סיעוד",
+        "צ'קליסט תנאי זכאות לביטוח סיעוד",
+        "מדריך הוכחת מצב תפקודי מול חברות ביטוח",
+        "FAQ משפטי תהליך הגשת תביעות סיעוד",
+        "מדריך זכויות משפטיות מול הראל מנורה מגדל",
+        "מדריך משפטי דיני ביטוח סיעודי בישראל",
+        "רשימת אזהרות דחיית תביעות סיעוד",
+        "מדריך ספציפי אלצהיימר פרקינסון דמנציה ביטוח",
+        "טמפלט הוכחת זכאות לביטוח סיעוד"
       ]
     },
     {
       "stage": "consideration",
       "questions": [
-        "How do I find a lawyer specializing in LTC insurance claims?",
-        "What experience should I look for in an insurance law attorney?",
-        "How much does LTC insurance legal representation cost?",
-        "What are the differences between insurance lawyers and general attorneys?",
-        "How do I check a lawyer's track record with LTC cases?"
+        "איך לבחור עורך דין לביטוח סיעוד",
+        "כמה עולה עורך דין לתביעת ביטוח סיעוד",
+        "איך לבחור בין עורכי דין לביטוח סיעוד",
+        "כמשפחה איך לבדוק ניסיון עורך דין מול הראל",
+        "עורכי דין ביטוח סיעוד המלצות ומה לבדוק",
+        "איך נראה עבודה עם עורך דין ביטוח סיעוד",
+        "המלצות על עורכי דין ביטוח סיעוד בישראל",
+        "כמטפל איך לבחור עורך דין שמבין אותנו",
+        "יתרונות עורך דין שמרצה ביטוח סיעוד"
       ],
       "content_needs": [
-        "Directory: LTC Insurance Lawyers in Israel",
-        "Comparison Guide: Choosing the Right Insurance Attorney",
-        "Pricing Guide: LTC Legal Services Costs",
-        "Case Studies: Successful LTC Insurance Appeals",
-        "Checklist: What to Ask When Interviewing Lawyers"
+        "טבלת השוואה איך לבחור עורך דין ביטוח סיעוד",
+        "סיפורי הצלחה ניצחונות משפטיים מול הראל מנורה",
+        "אוסף המלצות ועדויות לקוחות משפחות",
+        "מדריך תהליך עבודה עם עורך דין ביטוח",
+        "מחשבון עלויות ושכר טרחה עורכי דין",
+        "נתוני הצלחה עורך דין משה תבו מול חברות ביטוח",
+        "מדריך השוואת ניסיון עורכי דין ביטוח סיעוד",
+        "מדריך בחירת ייצוג משפטי רגיש ומקצועי"
       ]
     },
     {
       "stage": "decision",
       "questions": [
-        "What documents should I prepare for my lawyer consultation?",
-        "How long does the LTC insurance appeal process typically take?",
-        "What are the success rates for LTC insurance claim disputes?",
-        "How do I prepare for my first meeting with an insurance lawyer?",
-        "What happens during the LTC insurance legal review process?"
+        "איך ליצור קשר עם עורך דין משה תבו",
+        "כמשפחה מה להכין לפגישה ראשונה עם עורך דין",
+        "כמה זמן לוקח תביעת ביטוח סיעוד",
+        "מה הסיכויים לזכות בתביעה מול מנורה הראל",
+        "איך משלמים לעורך דין ביטוח סיעוד",
+        "מה קורה אם מפסידים בתביעה",
+        "איך עורך דין משה תבו יעזור לי בדיוק",
+        "מתי יכול להתחיל תהליך עם עורך דין",
+        "כמטפל איך מבטיחים שירות אישי ומענה",
+        "רשימת מסמכים לתביעת ביטוח סיעוד"
       ],
       "content_needs": [
-        "Checklist: Documents Needed for LTC Claim Review",
-        "Timeline: LTC Insurance Appeal Process",
-        "Success Stories: LTC Claim Victories",
-        "Guide: Preparing for Your Legal Consultation",
-        "Video: What to Expect in LTC Insurance Legal Review"
+        "טופס יצירת קשר ותיאום פגישה ראשונה",
+        "צ'קליסט מסמכים נדרשים לפגישה ראשונה",
+        "מדריך תנאי התקשרות ותשלום שכר טרחה",
+        "תהליך עבודה מפורט עורך דין משה תבו",
+        "פירוט שירותים והתמחות ביטוח סיעוד",
+        "פרטי יצירת קשר וזמינות למשפחות",
+        "דף נחיתה יצירת קשר מיידי",
+        "לוח זמנים צפוי לתהליך משפטי",
+        "הבטחת שירות אישי ומענה מהיר למשפחות",
+        "מדריך הכנה מיידית להגשת תביעה"
       ]
     }
   ],
   "_meta": {
     "schema_version": "1.0.0",
     "produced_by": "customer_journey",
-    "timestamp": "2025-09-08T13:00:00Z"
+    "timestamp": "2025-09-08T00:00:00Z"
   }
 }

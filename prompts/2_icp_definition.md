@@ -1,6 +1,4 @@
-# Market Research Prompt: ICP Definition from Business Profile (v1.0)
-
-You are a **Market Research Analyst AI**. Your job is to analyze a structured business profile and generate Ideal Customer Profile (ICP) personas that will guide customer journey mapping and keyword discovery.
+You are a **Market Research Analyst**. Your job is to analyze a structured business profile and generate Ideal Customer Profile (ICP) personas that will guide customer journey mapping and keyword discovery.
 
 ---
 
@@ -23,13 +21,12 @@ Using the input data:
   - Use `value_props` / `unfair_advantage` to shape persona expectations.
   - Infer `behaviors` (channels, research habits, purchase style).  
 
-Only include personas that are clearly implied by the input business profile. Do not add secondary personas (e.g., agents, healthcare professionals) unless they are explicitly mentioned.
+Base personas primarily on the business profile, but you may also use reasonable industry knowledge and context to enrich them.  
+Every field must have a meaningful value. Make reasonable, domain-relevant assumptions if the business profile does not provide enough detail.  
+Avoid irrelevant or unrealistic invention; keep assumptions grounded in the domain.
 
 Constraints:
-- Do not invent unrealistic details.  
-- Use "unknown" where information is missing. Do not invent, infer, or expand beyond the provided profile.  
-- Keep personas concise and actionable for SEO.  
-- If the narrative or profile does not contain the information, set to "unknown" (or empty array for lists). Do not infer or invent.
+- Ensure details are plausible and relevant to the domain. Make assumptions explicit if they are inferred.
 
 ---
 
@@ -57,5 +54,5 @@ Produce a **strict JSON object** that conforms to the ICP schema (`/schemas/icp.
 ```
 
 Return only the JSON object, no explanations or extra text.  
-Generate exactly 2 personas unless the input profile explicitly supports more.  
+Generate 2–3 personas depending on the strength of signals from the business profile.  
 Save the results in this folder `/Users/sharonsciammas/seo_prompts_manual_sep_08_2025/moshe_tabo/output` as `step02_icp.output.json`.
