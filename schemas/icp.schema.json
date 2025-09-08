@@ -1,44 +1,33 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "ICP (Foundation)",
   "type": "object",
   "properties": {
-    "segments": {
+    "personas": {
       "type": "array",
       "items": {
-        "type": "string"
+        "type": "object",
+        "properties": {
+          "persona_name": { "type": "string" },
+          "description": { "type": "string" },
+          "context": { "type": "string", "description": "Industry/role context derived from business profile" },
+          "pains": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "goals": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+          "behaviors": { "type": "array", "items": { "type": "string" }, "description": "Channels, research habits" }
+        },
+        "required": ["persona_name", "pains", "goals"]
       }
     },
-    "demographics": {
+    "_meta": {
       "type": "object",
       "properties": {
-        "age_range": {
-          "type": "string"
-        },
-        "location": {
-          "type": "string"
-        },
-        "job_titles": {
-          "type": "array",
-          "items": {
-            "type": "string"
-          }
-        }
-      }
-    },
-    "pain_points": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
-    },
-    "buying_motives": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      }
+        "schema_version": { "type": "string", "default": "1.0.0" },
+        "produced_by": { "type": "string", "default": "icp_definition" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["schema_version", "produced_by", "timestamp"]
     }
   },
-  "required": [
-    "segments",
-    "pain_points"
-  ]
+  "required": ["personas", "_meta"],
+  "additionalProperties": false
 }

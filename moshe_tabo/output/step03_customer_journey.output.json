@@ -1,0 +1,60 @@
+{
+  "stages": [
+    {
+      "stage": "awareness",
+      "questions": [
+        "What are my rights as an LTC insurance policyholder in Israel?",
+        "When do I need a lawyer for my long-term care insurance claim?",
+        "What signs indicate my insurance claim might be unfairly denied?",
+        "How do I know if my LTC policy covers my current medical condition?",
+        "What should I do if my insurance company is delaying my claim payment?"
+      ],
+      "content_needs": [
+        "Guide: LTC Insurance Policyholder Rights in Israel",
+        "Blog: When to Contact a Lawyer for Insurance Claims",
+        "Infographic: Signs of Insurance Claim Denial",
+        "FAQ: Understanding LTC Policy Coverage Terms",
+        "Article: What to Do When Insurance Delays Your Claim"
+      ]
+    },
+    {
+      "stage": "consideration",
+      "questions": [
+        "How do I find a lawyer specializing in LTC insurance claims?",
+        "What experience should I look for in an insurance law attorney?",
+        "How much does LTC insurance legal representation cost?",
+        "What are the differences between insurance lawyers and general attorneys?",
+        "How do I check a lawyer's track record with LTC cases?"
+      ],
+      "content_needs": [
+        "Directory: LTC Insurance Lawyers in Israel",
+        "Comparison Guide: Choosing the Right Insurance Attorney",
+        "Pricing Guide: LTC Legal Services Costs",
+        "Case Studies: Successful LTC Insurance Appeals",
+        "Checklist: What to Ask When Interviewing Lawyers"
+      ]
+    },
+    {
+      "stage": "decision",
+      "questions": [
+        "What documents should I prepare for my lawyer consultation?",
+        "How long does the LTC insurance appeal process typically take?",
+        "What are the success rates for LTC insurance claim disputes?",
+        "How do I prepare for my first meeting with an insurance lawyer?",
+        "What happens during the LTC insurance legal review process?"
+      ],
+      "content_needs": [
+        "Checklist: Documents Needed for LTC Claim Review",
+        "Timeline: LTC Insurance Appeal Process",
+        "Success Stories: LTC Claim Victories",
+        "Guide: Preparing for Your Legal Consultation",
+        "Video: What to Expect in LTC Insurance Legal Review"
+      ]
+    }
+  ],
+  "_meta": {
+    "schema_version": "1.0.0",
+    "produced_by": "customer_journey",
+    "timestamp": "2025-09-08T13:00:00Z"
+  }
+}

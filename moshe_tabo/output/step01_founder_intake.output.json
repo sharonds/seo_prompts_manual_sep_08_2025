@@ -1,0 +1,47 @@
+{
+  "company_name": "עו״ד משה תבו - מומחה לדיני ביטוח סיעודי",
+  "website": "https://www.moshetabo.co.il/",
+  "industry": "Legal Services",
+  "services": [
+    "ייצוג משפטי בתביעות ביטוח סיעודי",
+    "ייעוץ בנושא זכויות מבוטחים בביטוח סיעודי",
+    "הרצאות בתחום ביטוח סיעודי"
+  ],
+  "geo_focus": "Israel",
+  "language": "he",
+  "goals": [
+    "להבטיח זכויות מבוטחים מול חברות הביטוח"
+  ],
+  "vision_summary": "עו״ד משה תבו הוא עורך דין מומחה בתחום ביטוחי הסיעוד, עם ניסיון של מעל 15 שנים בייצוג מבוטחים מול חברות הביטוח הגדולות כמו הראל, מנורה, מגדל, כלל והפניקס. הוא גם מרצה בתחום ביטוחי הסיעוד. המוטו הוא: 'אתם תתמקדו ביקרים לכם, אני אדאג להבטיח את זכויותיכם מול חברות הביטוח.'",
+
+  "positioning_summary": {
+    "value_props": [],
+    "unfair_advantage": []
+  },
+
+  "market_context": {
+    "competitors": [],
+    "seed_keywords": [],
+    "target_market_notes": "unknown"
+  },
+
+  "seo_constraints": {
+    "target_countries": [],
+    "target_languages": [],
+    "must_include_terms": [],
+    "must_exclude_terms": [],
+    "compliance_notes": []
+  },
+
+  "content_preferences": {
+    "formats_priority": [],
+    "cadence_per_week": 0,
+    "distribution_channels": []
+  },
+
+  "_meta": {
+    "schema_version": "1.1.0",
+    "produced_by": "founder_intake_manual",
+    "timestamp": "2025-09-08T12:00:00Z"
+  }
+}
