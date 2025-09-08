@@ -1,0 +1,50 @@
+recipe: foundation_seo
+version: 1.0.0
+steps:
+  - name: founder_intake
+    runner: ai
+    prompt: prompts/1_founder_intake.md
+    input: inputs/founder_intake.input.json
+    output: outputs/founder_intake.output.json
+    output_schema: schemas/business_profile.schema.v1.json
+
+  - name: icp_definition
+    runner: ai
+    prompt: prompts/2_icp_definition.md
+    input: outputs/founder_intake.output.json
+    output: outputs/icp.output.json
+    output_schema: schemas/icp.schema.v1.json
+
+  - name: customer_journey
+    runner: ai
+    prompt: prompts/3_customer_journey.md
+    input: outputs/icp.output.json
+    output: outputs/journey.output.json
+    output_schema: schemas/customer_journey.schema.v1.json
+
+  - name: keyword_discovery
+    runner: ai
+    prompt: prompts/4_keyword_discovery.md
+    input: outputs/journey.output.json
+    output: outputs/raw_keywords.output.json
+    output_schema: schemas/raw_keywords.schema.v1.json
+
+  - name: keyword_metrics
+    runner: dataforseo
+    input: outputs/raw_keywords.output.json
+    output: outputs/keywords_with_metrics.output.json
+    output_schema: schemas/keywords_with_metrics.schema.v1.json
+
+  - name: keyword_clustering
+    runner: ai
+    prompt: prompts/6_keyword_clustering.md
+    input: outputs/keywords_with_metrics.output.json
+    output: outputs/keyword_clusters.output.json
+    output_schema: schemas/keyword_clusters.schema.v1.json
+
+  - name: content_plan
+    runner: ai
+    prompt: prompts/7_content_plan.md
+    input: outputs/keyword_clusters.output.json
+    output: outputs/content_plan.output.json
+    output_schema: schemas/content_plan.schema.v1.json

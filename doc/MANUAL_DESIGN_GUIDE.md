@@ -72,7 +72,7 @@ icp.personas[]                        ← business_profile.value_props/segments
 
 
 
-Step D — Step Specs (Text Only)
+Step D — Step Specs, business logic (Text Only)
 	•	For each step:
 	•	Role
 	•	Goal
