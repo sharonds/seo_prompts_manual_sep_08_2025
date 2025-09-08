@@ -1,36 +1,87 @@
 {
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Foundational Content Plan",
   "type": "object",
   "properties": {
     "pillars": {
       "type": "array",
+      "description": "3–5 strategic content themes",
       "items": {
         "type": "object",
         "properties": {
-          "pillar": {
-            "type": "string"
+          "pillar_name": { "type": "string" },
+          "description": { "type": "string" },
+          "funnel_stage": {
+            "type": "string",
+            "enum": ["awareness", "consideration", "decision"]
           },
-          "theme_statement": {
-            "type": "string"
+          "priority": { 
+            "type": "string", 
+            "enum": ["high", "medium", "low"] 
+          },
+          "priority_rationale": { 
+            "type": "string",
+            "description": "Why this pillar matters (e.g., quick win, aligns with business goal)"
           },
           "clusters": {
             "type": "array",
+            "description": "Keyword/topic clusters under this pillar",
             "items": {
-              "type": "string"
+              "type": "object",
+              "properties": {
+                "cluster_name": { "type": "string" },
+                "keywords": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "keyword": { "type": "string" },
+                      "search_volume": { "type": ["integer", "string"], "description": "If unknown, use 'unknown'" },
+                      "difficulty": { "type": ["number", "string"], "description": "If unknown, use 'unknown'" },
+                      "intent": {
+                        "type": "string",
+                        "enum": ["informational", "navigational", "transactional", "commercial"]
+                      },
+                      "source": { "type": "string", "description": "tool, AI, or translation" }
+                    },
+                    "required": ["keyword"]
+                  }
+                },
+                "recommended_content_type": {
+                  "type": "string",
+                  "description": "e.g., blog, FAQ, landing page, guide"
+                },
+                "content_ideas": {
+                  "type": "array",
+                  "description": "Specific suggested content items",
+                  "items": { "type": "string" }
+                }
+              },
+              "required": ["cluster_name", "keywords"]
             }
-          },
-          "funnel_stage": {
-            "type": "string"
-          },
-          "priority_score": {
-            "type": "integer",
-            "minimum": 1,
-            "maximum": 5
           }
-        }
+        },
+        "required": ["pillar_name", "funnel_stage", "priority", "clusters"]
+      }
+    },
+    "intent_distribution": {
+      "type": "object",
+      "description": "Summary of keyword intents across the plan",
+      "properties": {
+        "informational": { "type": "integer" },
+        "navigational": { "type": "integer" },
+        "transactional": { "type": "integer" },
+        "commercial": { "type": "integer" }
+      }
+    },
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string" },
+        "produced_by": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" }
       }
     }
   },
-  "required": [
-    "pillars"
-  ]
+  "required": ["pillars"]
 }

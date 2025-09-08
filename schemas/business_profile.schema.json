@@ -1,52 +1,26 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Business Profile Schema — Output of Prompt 1",
+  "title": "Business Profile (Foundation)",
   "type": "object",
   "properties": {
-    "company_name": {
-      "type": "string",
-      "description": "Full company name"
-    },
-    "industry": {
-      "type": "string",
-      "description": "Primary industry"
-    },
-    "business_model": {
-      "type": "string",
-      "enum": [
-        "B2B",
-        "B2C",
-        "B2B2C",
-        "Marketplace"
-      ],
-      "description": "Business model type"
-    },
-    "core_products": {
-      "type": "array",
-      "items": {
-        "type": "string"
+    "company_name": { "type": "string" },
+    "industry": { "type": "string" },
+    "services": { "type": "array", "items": { "type": "string" }, "minItems": 1 },
+    "geo_focus": { "type": "string", "description": "e.g., Israel" },
+    "language": { "type": "string", "enum": ["he", "en", "ar", "ru", "other"], "default": "he" },
+    "goals": { "type": "array", "items": { "type": "string" } },
+    "value_props": { "type": "array", "items": { "type": "string" } },
+    "target_market_notes": { "type": "string" },
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string", "default": "1.0.0" },
+        "produced_by": { "type": "string", "default": "founder_intake" },
+        "timestamp": { "type": "string", "format": "date-time" }
       },
-      "description": "Core products/services (simplified from detailed input)"
-    },
-    "value_props": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Key value propositions"
-    },
-    "goals": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Business goals and objectives"
+      "required": ["schema_version", "produced_by", "timestamp"]
     }
   },
-  "required": [
-    "company_name",
-    "industry",
-    "business_model",
-    "core_products"
-  ]
+  "required": ["industry", "services", "goals", "_meta"],
+  "additionalProperties": false
 }
