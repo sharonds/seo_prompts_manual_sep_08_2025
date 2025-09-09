@@ -1,0 +1,3673 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<report>
+	<report-name>Search keyword report</report-name>
+	<date-range>1 July 2025 - 4 September 2025</date-range>
+	<table>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>אוטיזם תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>5</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>53</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>9.43%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>13.13</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>65.65</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>51.11%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>53.33%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>ביטוח לאומי הגשת תביעת סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>4</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>50.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>ביטוח לאומי תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>2</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>29</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>6.90%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>5.97</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>11.94</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>29.63%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>29.63%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>ביטוח סיעודי לאחר מוות</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>2</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>62</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>3.23%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>5.98</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>11.96</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>31.11%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>80.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>ביטוח סיעודי מאוחדת הגשת תביעה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>2</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>10</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>20.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>19.56</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>39.12</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>12.50%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>100.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>ביטוח סיעודי מכבי הגשת תביעה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>דחיית תביעת סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>19</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>25.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>75.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הגשת תביעה ביטוח סיעודי כללית</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>36</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>266</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>13.53%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>7.48</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>269.39</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>18.72%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>85.96%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הגשת תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>1</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>12</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>8.33%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>6.93</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>6.93</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>14.29%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>100.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הגשת תביעה לגמלת סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>25</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>5.26%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>63.16%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הגשת תביעת סיעוד הראל</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>2</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>25</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>8.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>3.36</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>6.72</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>8.70%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>91.30%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הגשת תביעת סיעוד כללית</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>6</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>40</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>15.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>4.79</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>28.72</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>15.38%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>89.74%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הפעלת ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>11</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>123</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>8.94%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>10.73</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>118.06</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>48.05%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>85.71%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הפעלת ביטוח סיעודי כללית</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>4</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>38</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>10.53%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>6.70</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>26.78</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>21.21%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>81.82%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>הראל סיעודי תביעה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>35</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>270</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>12.96%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>10.24</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>358.33</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>12.30%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>75.82%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>ילד נכה תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>4</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>55</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>7.27%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>11.67</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>46.68</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>45.45%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>47.73%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>מימוש ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>6</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>115</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>5.22%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>11.71</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>70.23</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>32.47%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>81.82%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>מימוש זכויות ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>10</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>71</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>14.08%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>11.85</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>118.48</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>42.86%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>83.67%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>מכבי סיעודי הגשת תביעה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>16</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>7.14%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>71.43%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>מכבי סיעודי הפניקס תביעה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Not eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>rarely served</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>מכבי סיעודי תביעה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>44</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>8.11%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>89.19%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>עו ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>3</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>50.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>עו ד תביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>עוד ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>3</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>37</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>8.11%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>31.49</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>94.47</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>19.05%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>90.48%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>1.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>94.47</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>33.33%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>עורך דין ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>4</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>103</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>3.88%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>53.77</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>215.09</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>9.86%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>83.10%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>107.54</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>50.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>עורך דין סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>66</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>815</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>8.10%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>36.92</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>2436.62</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>16.73%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>82.19%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>14.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>174.04</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>21.21%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>עורך דין תביעת סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>9</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>83.33%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>קצבת תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>9</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>11.11%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>11.11%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>שכר טרחה עורך דין ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>עו"ד לתביעות סיעוד</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>3</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>81</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>3.70%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>12.16</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>36.48</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>12.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>86.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>30</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>821</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>3.65%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>18.98</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>569.25</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>13.07%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>69.95%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>5.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>113.85</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>16.67%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעה לסיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>12</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>385</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>3.12%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>7.79</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>93.44</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>22.22%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>69.53%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעה לסיעוד ביטוח לאומי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>38</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>13.33%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>80.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעה של ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>4</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>66.67%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>100.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעות ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>11</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>496</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>2.22%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>29.19</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>321.07</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>18.82%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>76.47%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>160.54</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>18.18%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת ביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>9</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>224</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>4.02%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>26.75</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>240.77</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>19.86%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>77.40%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>120.39</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>22.22%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת ביטוח סיעודי אוטיזם</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>3</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>116</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>2.59%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>13.83</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>41.50</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>18.42%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>80.26%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת ביטוח סיעודי מכבי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>1</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>39</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>2.56%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>4.75</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>4.75</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>10.81%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>59.46%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעה לביטוח סיעודי</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>28</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>1,311</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>2.14%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>19.51</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>546.35</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>13.06%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>71.23%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>273.17</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>7.14%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד דקלה</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד הראל</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>27</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>272</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>9.93%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>9.43</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>254.64</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>12.96%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>80.97%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>2.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>127.32</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>7.41%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד הראל כללית</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>16</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>83</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>19.28%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>5.67</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>90.72</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>17.11%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>96.05%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד חברת ביטוח</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>5</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>20.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>100.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד לאומית</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>7</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>50.00%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תביעת סיעוד מכבי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Limited</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value>low quality</value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תביעת סיעוד חברות ביטוח</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>29</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>14.81%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>51.85%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>43</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>515</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>8.35%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>10.37</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>445.87</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>45.49%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>46.37%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>2.50</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>178.35</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>5.81%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תלות בזולת ביטוח לאומי</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>5</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>137</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>3.65%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>14.65</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>73.23</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>35.77%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>37.40%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.50</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>146.46</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>10.00%</value>
+			</cell>
+		</row>
+		<row>
+			<cell>
+				<key>Search keyword</key>
+				<value>תלות בזולת נקודות</value>
+			</cell>
+			<cell>
+				<key>Search keyword status</key>
+				<value>Eligible</value>
+			</cell>
+			<cell>
+				<key>Search keyword status reasons</key>
+				<value></value>
+			</cell>
+			<cell>
+				<key>Search keyword match type</key>
+				<value>Phrase match</value>
+			</cell>
+			<cell>
+				<key>Campaign</key>
+				<value>חיפוש- Q</value>
+			</cell>
+			<cell>
+				<key>Ad group</key>
+				<value>תלות בזולת</value>
+			</cell>
+			<cell>
+				<key>Currency code</key>
+				<value>ILS</value>
+			</cell>
+			<cell>
+				<key>Keyword max CPC</key>
+				<value>0.01</value>
+			</cell>
+			<cell>
+				<key>Clicks</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Impr.</key>
+				<value>6</value>
+			</cell>
+			<cell>
+				<key>CTR</key>
+				<value>0.00%</value>
+			</cell>
+			<cell>
+				<key>Avg. CPC</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>Impr. (Abs. Top) %</key>
+				<value>33.33%</value>
+			</cell>
+			<cell>
+				<key>Impr. (Top) %</key>
+				<value>33.33%</value>
+			</cell>
+			<cell>
+				<key>Conversions</key>
+				<value>0.00</value>
+			</cell>
+			<cell>
+				<key>View-through conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Cost / conv.</key>
+				<value>0</value>
+			</cell>
+			<cell>
+				<key>Conv. rate</key>
+				<value>0</value>
+			</cell>
+		</row>
+	</table>
+</report>

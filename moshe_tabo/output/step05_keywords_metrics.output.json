@@ -1,0 +1,1089 @@
+{
+  "keywords": [
+    {
+      "keyword": "ביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": 3600,
+      "difficulty": 18.0,
+      "cpc": 2.53,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": 110,
+      "difficulty": 21.0,
+      "cpc": 41.68,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": 260,
+      "difficulty": 18.0,
+      "cpc": 15.21,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "ביטוח לאומי סיעוד",
+      "intent": "informational",
+      "search_volume": 1300,
+      "difficulty": 7.0,
+      "cpc": 0.71,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "גמלת סיעוד",
+      "intent": "informational",
+      "search_volume": 1300,
+      "difficulty": 12.0,
+      "cpc": 0.56,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "נקודות תלות ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": 20,
+      "difficulty": 4.0,
+      "cpc": "unknown",
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "מחשבון סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ערעור ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": 170,
+      "difficulty": 2.0,
+      "cpc": 2.57,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "איך להגיש תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ערעור על החלטת ביטוח לאומי דוגמא",
+      "intent": "informational",
+      "search_volume": 320,
+      "difficulty": "unknown",
+      "cpc": 0.8,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "טופס ערעור ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": 210,
+      "difficulty": 3.0,
+      "cpc": "unknown",
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "ערעור על החלטת ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": 210,
+      "difficulty": "unknown",
+      "cpc": 1.01,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "הגשת ערעור ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": 110,
+      "difficulty": 3.0,
+      "cpc": 0.68,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "עורך דין ערעור ביטוח לאומי",
+      "intent": "commercial",
+      "search_volume": 20,
+      "difficulty": 36.0,
+      "cpc": 5.17,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "תעודת מקבל סיעוד זכויות",
+      "intent": "informational",
+      "search_volume": 50,
+      "difficulty": "unknown",
+      "cpc": 1.73,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "זכויות עובדי סיעוד",
+      "intent": "informational",
+      "search_volume": 10,
+      "difficulty": "unknown",
+      "cpc": 0.4,
+      "metrics_source": "dataforseo"
+    },
+    {
+      "keyword": "ביטוח סיעוד מה זה",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך יודעים אם זכאי לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תנאי זכאות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכאות הורה לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך בודקים זכאות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעוד למשפחות",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הבדל בעיות תפקוד אלצהיימר ביטוח",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "בעיות תפקוד ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "אלצהיימר ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכויות ביטוח סיעוד במצב רפואי",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מצב רפואי מורכב ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד הוכחות רפואיות",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעוד בזקנה",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מתי להגיש בקשה ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תכנון ביטוח סיעוד מוקדם",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך פועל תהליך הערעור ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עורך דין לערעור ביטוח לאומי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עזרת עורך דין בביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זמנים ערעור ביטוח לאומי",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "לוח זמנים תביעת ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מועדים חשובים בביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "טעויות נפוצות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך להימנע מטעויות בביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "כשלים בתביעות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "נדחתה תביעה לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך לערער על דחיית תביעה",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "סיבות לדחיית ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עלות עורך דין ביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "שכר טרחה עורך דין ביטוח",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "כדאיות עורך דין בביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הבדלים ביטוח פרטי וביטוח לאומי סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "יתרונות ביטוח פרטי סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "השוואת ביטוח סיעוד פרטי מול לאומי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכויות בחירה ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "סוגי טיפול ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "בחירת ספק טיפול ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תופעות לוואי של תרופות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "השפעת תרופות על זכאות סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכאות ביטוח סיעוד עם תרופות",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכויות משפחה בביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תפקיד המשפחה בטיפול סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עזרה למשפחות בביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "שינוי מצב ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עדכון סטטוס ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "התדרדרות מצב בביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "שיפור מצב ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעוד בגיל צעיר",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכאות צעירים לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תנאי גיל לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעוד חוץ לארץ",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכאות תושבי חוץ לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "טיפול סיעוד בחוץ לארץ",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הערכה מחדש ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "בדיקה תקופתית ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תדירות בדיקות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך להכין עצמי לבדיקת ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "בדיקה רפואית לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "רופא מעריך ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "טיפים לבדיקת ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מסמכים נדרשים ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "רשימת מסמכים לתביעת סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הכנת תיק רפואי לביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "שאלות נפוצות ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ייעוץ משפטי ביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "שאלות לעורך דין ביטוח סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "למה דוחים תביעת ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "סיבות דחיית תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "חברת ביטוח דוחה תביעה סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "איך מגישים תביעת ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תהליך הגשת תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מדריך הגשת תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "זכויות מבוטח מול חברת ביטוח",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "אוטיזם תלות בזולת",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח לאומי הגשת תביעת סיעוד",
+      "intent": "navigational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח לאומי תלות בזולת",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעודי לאחר מוות",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעודי מאוחדת הגשת תביעה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ביטוח סיעודי מכבי הגשת תביעה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "דחיית תביעת סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הגשת תביעה ביטוח סיעודי כללית",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הגשת תביעה לביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הגשת תביעה לגמלת סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הגשת תביעת סיעוד הראל",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הגשת תביעת סיעוד כללית",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הפעלת ביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הפעלת ביטוח סיעודי כללית",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "הראל סיעודי תביעה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "ילד נכה תלות בזולת",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מימוש ביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מימוש זכויות ביטוח סיעודי",
+      "intent": "informational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מכבי סיעודי הגשת תביעה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מכבי סיעודי הפניקס תביעה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "מכבי סיעודי תביעה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עו ד לתביעות סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עו ד תביעות סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עוד ביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעודי",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עורך דין סיעוד",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "עורך דין תביעת סיעוד",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "קצבת תלות בזולת",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "שכר טרחה עורך דין ביטוח סיעודי",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעה לביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעה לסיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעה לסיעוד ביטוח לאומי",
+      "intent": "navigational",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעה של ביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעות ביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעודי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעודי אוטיזם",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעודי מכבי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד דקלה",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד הראל",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד הראל כללית",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד חברת ביטוח",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד לאומית",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תביעת סיעוד מכבי",
+      "intent": "commercial",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תלות בזולת",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תלות בזולת ביטוח לאומי",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    },
+    {
+      "keyword": "תלות בזולת נקודות",
+      "intent": "transactional",
+      "search_volume": "unknown",
+      "difficulty": "unknown",
+      "cpc": "unknown",
+      "metrics_source": "unknown"
+    }
+  ],
+  "_meta": {
+    "schema_version": "1.0.0",
+    "produced_by": "keyword_metrics",
+    "timestamp": "2025-09-09T13:55:16.972841"
+  }
+}

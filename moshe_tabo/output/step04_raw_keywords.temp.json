@@ -1,4 +1,5 @@
 {
+  "language": "he",
   "keywords": [
     {
       "keyword": "ביטוח סיעוד",
@@ -811,10 +812,9 @@
       "seed_from": "google_ads_campaign"
     }
   ],
-  "language": "he",
   "_meta": {
     "schema_version": "1.0.0",
-    "produced_by": "keyword_discovery_validator",
-    "timestamp": "2025-09-09T13:29:03.031027"
+    "produced_by": "keyword_discovery_merged_ads",
+    "timestamp": "2025-09-09T13:18:12.634691"
   }
 }

@@ -1,0 +1,24 @@
+by_metrics_source:
+  ads: 0
+  ai_estimate: 0
+  dataforseo: 14
+  unknown: 121
+coverage_percentage: 10.4
+dropped_fields:
+- competition
+- competition_level
+- metrics_last_updated
+- seed_from
+- source
+full_metrics_percentage: 5.9
+keywords_with_any_metric: 14
+keywords_with_full_metrics: 8
+total_keywords: 135
+transformation_notes:
+- Transformed from original step05 output to strict schema compliance
+- Moved 'metadata' to '_meta' with required fields
+- 'Removed non-schema fields: competition, competition_level, metrics_last_updated,
+  seed_from, source'
+- Normalized 'DataForSEO' → 'dataforseo' in metrics_source
+- Converted null values to 'unknown' strings
+- Preserved all keyword text and intent classifications

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "title": "Keywords With Metrics (Foundation)",
+  "title": "Keywords With Metrics (Foundation) — v1.2",
   "type": "object",
   "properties": {
     "keywords": {
@@ -9,26 +9,28 @@
         "type": "object",
         "properties": {
           "keyword": { "type": "string" },
-          "intent": { 
-            "type": "string", 
-            "enum": ["informational", "navigational", "transactional", "commercial"] 
+          "intent": {
+            "type": "string",
+            "enum": ["informational", "navigational", "transactional", "commercial"]
           },
-          "search_volume": { 
-            "type": ["integer", "string"], 
-            "description": "If unknown, use 'unknown'" 
+
+          /* traceability from Step 4 (optional) */
+          "source": { "type": "string", "enum": ["ads", "dataforseo", "ai", "translation"] },
+          "seed_from": { "type": "string" },
+          "translation_of": { "type": "string" },
+
+          /* metrics (set to "unknown" if not available) */
+          "search_volume": { "type": ["integer", "string"] },
+          "difficulty": { "type": ["number", "string"] },
+          "cpc": { "type": ["number", "string"] },
+          "metrics_source": {
+            "type": "string",
+            "enum": ["ads", "dataforseo", "ai_estimate", "unknown"]
           },
-          "difficulty": { 
-            "type": ["number", "string"], 
-            "description": "If unknown, use 'unknown'" 
-          },
-          "cpc": { 
-            "type": ["number", "string"], 
-            "description": "If unknown, use 'unknown'" 
-          },
-          "metrics_source": { 
-            "type": "string", 
-            "enum": ["ads", "dataforseo", "ai_estimate", "unknown"] 
-          }
+
+          /* optional metadata */
+          "cpc_currency": { "type": "string" },
+          "metrics_last_updated": { "type": "string", "format": "date-time" }
         },
         "required": ["keyword", "intent"]
       }
@@ -36,7 +38,7 @@
     "_meta": {
       "type": "object",
       "properties": {
-        "schema_version": { "type": "string", "default": "1.0.0" },
+        "schema_version": { "type": "string", "default": "1.2.0" },
         "produced_by": { "type": "string", "default": "keyword_metrics" },
         "timestamp": { "type": "string", "format": "date-time" }
       },
