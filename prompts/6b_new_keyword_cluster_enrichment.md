@@ -1,4 +1,4 @@
-# Step 6B — Cluster Enrichment (v1.2)
+# Step 6B — Cluster Enrichment (v1.4)
 
 ## Role  
 You are an **SEO Strategist**.
@@ -29,32 +29,39 @@ The output must conform exactly to the schema below (`keyword_clusters.schema.js
    - Copy clusters and keyword objects verbatim from Step 6A.  
    - Do not add, remove, or rename fields inside keyword objects.  
    - Only add fields required by this step (`recommended_content_type`, `priority`, `priority_reasoning`).  
+   - Ensure `metrics_source` strictly matches schema enums: `ads`, `dataforseo`, `ai_estimate`, or `unknown`.
 
 2. **Dominant intent**  
    - Each cluster must have `dominant_intent`.  
    - Compute as the most common `intent` among keywords.  
    - Tie-breaker 1: highest total `search_volume` (treat `"unknown"` as 0).  
-   - Tie-breaker 2: fallback to schema order: `informational` → `navigational` → `transactional` → `commercial`.  
+   - Tie-breaker 2: schema order: `informational` → `navigational` → `transactional` → `commercial`.  
 
 3. **Recommended content type**  
    - Choose one of: `blog`, `FAQ`, `guide`, `landing page`.  
    - Heuristic:  
-     - Informational → blog or guide  
-     - Navigational → FAQ or landing page  
-     - Transactional → landing page  
-     - Commercial → guide or landing page  
+     - Informational → blog or guide (alternate to avoid uniform “guide”).  
+     - Navigational → FAQ or landing page.  
+     - Transactional → landing page.  
+     - Commercial → guide or landing page.  
 
 4. **Priority**  
    - Assign: `high`, `medium`, or `low`.  
-   - Use a simple heuristic:  
-     - High → ≥2 keywords with `search_volume` ≥ 500 OR clear buying intent terms (lawyer, price, company).  
-     - Medium → aggregate `search_volume` 200–1000 OR mix of intents with some commercial terms.  
-     - Low → mostly `"unknown"` search volumes with informational-only intent.  
+   - Heuristic:  
+     - **High** → clusters with ≥2 keywords with `search_volume` ≥ 500 OR strong commercial/legal/buying terms (lawyer, price, claim, insurer).  
+     - **Medium** → clusters covering family caregiving or medical eligibility topics (authority-building), OR aggregate volume 200–1000.  
+     - **Low** → clusters with purely informational keywords and mostly `"unknown"` volume, unless strong buyer signals are present.  
+   - Do not default everything to “low” when data is sparse; **use business relevance as a fallback signal**.  
+   - If search volumes are sparse, elevate clusters with strong buyer/legal/commercial signals to avoid undervaluation.  
+   - Distribute recommended_content_type across clusters to avoid repetition (not all guides).
 
 5. **Priority reasoning**  
-   - Add 1–2 sentences explaining why the priority was chosen.  
-   - Reference volumes, CPC, or clear buying intent if available.  
-   - Keep concise and factual.  
+   - Write 1–2 concise, factual sentences.  
+   - Must mention the signals used: search volume, CPC, buyer/legal terms, or authority-building role.  
+   - Examples:  
+     - “Unknown volume, but high buyer intent signaled by lawyer/fees keywords.”  
+     - “Low volume, but essential for topical authority in family caregiving.”  
+   - Avoid repeating identical templates across clusters.
 
 ---
 
@@ -114,7 +121,7 @@ The output must conform exactly to the schema below (`keyword_clusters.schema.js
           "priority": { "type": "string", "enum": ["high", "medium", "low"] },
           "priority_reasoning": { "type": "string" }
         },
-        "required": ["cluster_name", "keywords"]
+        "required": ["cluster_name", "keywords", "dominant_intent", "recommended_content_type", "priority", "priority_reasoning"]
       }
     },
     "_meta": {
@@ -129,4 +136,5 @@ The output must conform exactly to the schema below (`keyword_clusters.schema.js
   },
   "required": ["clusters", "_meta"],
   "additionalProperties": false
-}```
+}
+```
