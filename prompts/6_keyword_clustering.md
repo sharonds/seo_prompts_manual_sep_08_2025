@@ -1,43 +1,112 @@
-Keyword Clustering Prompt (Step 6, v1.1)
+# Step 6 — Keyword Clustering (Foundation, v2.1)
 
 ## Role  
-You are an **SEO Strategist**. Your job is to organize enriched keywords into meaningful clusters based on semantic similarity and intent. This step will help streamline content planning and improve topical authority.
+You are an **SEO Strategist**.
 
----
+## Goal  
+Organize enriched keywords into meaningful clusters based on semantic similarity and shared intent.  
+This will streamline content planning and improve topical authority.
 
 ## Input  
-You will be given a JSON file conforming to `/schemas/keywords_with_metrics.schema.json` (Step 5 output). Each keyword includes all original fields from Step 5, including but not limited to:  
-- `keyword`  
-- `intent`  
-- `search_volume` (integer or `"unknown"`)  
-- `difficulty` (number or `"unknown"`)  
-- `cpc` (number or `"unknown"`)  
-- `metrics_source`  
-- Optional fields such as `source`, `seed_from`, `translation_of`, `cpc_currency`, `metrics_last_updated` (if present)  
-Preserve all these fields in the output.
+File:  
+`/Users/sharonsciammas/seo_prompts_manual_sep_08_2025/moshe_tabo/output/step05_keywords_metrics.output.json`
 
----
+- JSON array of keyword records.  
+- Each record may contain:  
+  - `keyword`  
+  - `intent`  
+  - `search_volume` (integer or `"unknown"`)  
+  - `difficulty` (number or `"unknown"`)  
+  - `cpc` (number or `"unknown"`)  
+  - `metrics_source`  
+  - Optional fields (if present): `cpc_currency`, `metrics_last_updated`, `source`, `seed_from`, `translation_of`  
+- **Preserve every field exactly as provided.**  
+- All numeric values must remain numeric where known; use `"unknown"` only if data is missing.
 
 ## Task  
 1. **Clustering**  
-   - Group keywords into clusters based on semantic similarity and shared intent.  
-   - Each cluster should have:  
-     - `cluster_name` (short descriptive theme label)  
-     - `keywords`: list of keyword objects (preserving all original fields from Step 5)  
-     - `dominant_intent`: the mode of intents in the cluster. If there is a tie, choose the intent with the highest total search volume across tied intents.  
-   - Each cluster should ideally contain between **3–10 keywords**; merge smaller sets into the closest cluster.  
-   - Aim for a total of **8–12 clusters** overall, balancing breadth across themes and depth for execution.
+   - Group keywords into clusters by semantic similarity and shared intent.  
+   - Each cluster must include:  
+     - `cluster_name` (short descriptive theme)  
+     - `keywords` (list of preserved keyword objects)  
+     - `dominant_intent` = mode of intents in the cluster.  
+       - If tied, select the intent with the **highest total search volume** (treat `"unknown"` as 0).  
+   - Constraints:  
+     - **8–12 clusters** total.  
+     - **3–10 keywords per cluster**.  
+     - If a cluster has <3 keywords, merge it into the closest semantic cluster.  
+     - If clusters exceed 12, iteratively merge the most similar until ≤12 remain.  
 
 2. **Priority Scoring**  
-   - For each cluster, assign a `priority` (high/medium/low) with reasoning in `priority_reasoning`.  
-   - Priority assignment should be simple and straightforward; do not include complex calculations here.  
-   - *Advanced prioritization and journey-based weighting will be handled by a separate Validator step after clustering.*
+   - Assign `priority`: `high` | `medium` | `low`.  
+   - Justify in `priority_reasoning`.  
+   - Keep logic simple; advanced weighting will be applied later.
 
-3. **Normalization and Validation**  
-   - Ensure all numeric fields remain numeric where known; use `"unknown"` literal only if data is missing.  
-   - Preserve all original keyword fields from Step 5, including optional fields if present.
-
----
+3. **Content Type Recommendation**  
+   - Add `recommended_content_type`: one of `blog`, `FAQ`, `guide`, `landing page`.  
 
 ## Output  
-Return a **strict JSON object** matching `/schemas/keyword_clusters.schema.json`. Preserve all existing keyword fields from Step 5, including optional fields if present.
+Return JSON only (no prose). Must conform exactly to the schema below.
+
+```json
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Keyword Clusters (Foundation) — v1.1",
+  "type": "object",
+  "properties": {
+    "clusters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "cluster_name": { "type": "string" },
+          "dominant_intent": {
+            "type": "string",
+            "enum": ["informational", "navigational", "transactional", "commercial"]
+          },
+          "keywords": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "keyword": { "type": "string" },
+                "search_volume": { "type": ["integer", "string"] },
+                "difficulty": { "type": ["number", "string"] },
+                "cpc": { "type": ["number", "string"] },
+                "metrics_source": {
+                  "type": "string",
+                  "enum": ["ads", "dataforseo", "ai_estimate", "unknown"]
+                },
+                "cpc_currency": { "type": "string" },
+                "metrics_last_updated": { "type": "string", "format": "date-time" },
+                "intent": {
+                  "type": "string",
+                  "enum": ["informational", "navigational", "transactional", "commercial"]
+                },
+                "source": { "type": "string", "enum": ["ads", "dataforseo", "ai", "translation"] },
+                "seed_from": { "type": "string" },
+                "translation_of": { "type": "string" }
+              },
+              "required": ["keyword"]
+            }
+          },
+          "recommended_content_type": { "type": "string", "description": "blog, FAQ, landing page, guide" },
+          "priority": { "type": "string", "enum": ["high", "medium", "low"] },
+          "priority_reasoning": { "type": "string" }
+        },
+        "required": ["cluster_name", "keywords"]
+      }
+    },
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string", "default": "1.1.0" },
+        "produced_by": { "type": "string", "default": "keyword_clustering" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["schema_version", "produced_by", "timestamp"]
+    }
+  },
+  "required": ["clusters", "_meta"],
+  "additionalProperties": false
+}

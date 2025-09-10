@@ -1,0 +1,1145 @@
+{
+  "meta": {
+    "version": "1.0",
+    "schema": "raw_keywords",
+    "generated_at": "2025-01-09T12:21:05Z",
+    "enhanced_at": "2025-01-09T12:35:00Z",
+    "input_source": "step03_customer_journey.output.json",
+    "methodology": "AI-generated keywords enhanced with DataForSEO market data",
+    "total_keywords": 145,
+    "language": "he",
+    "location": "Israel",
+    "sources": {
+      "ai_generated": 78,
+      "dataforseo_market_data": 67
+    },
+    "market_data_source": "DataForSEO API - Israeli market, Hebrew language"
+  },
+  "keywords": [
+    {
+      "keyword": "ביטוח סיעוד",
+      "search_volume": 3600,
+      "competition": "LOW",
+      "competition_score": 0.13,
+      "cpc": 3.95,
+      "intent": "commercial",
+      "intent_probability": 0.389,
+      "secondary_intent": "navigational",
+      "secondary_intent_probability": 0.38,
+      "source": "AI_generated_enhanced",
+      "source_question": "מה זה ביטוח סיעוד ואיך הוא עובד?",
+      "category": "basic_information",
+      "monthly_searches": {
+        "2025-07": 3600,
+        "2025-06": 2900,
+        "2025-05": 3600,
+        "2025-04": 2900,
+        "2025-03": 3600,
+        "2025-02": 2900,
+        "2025-01": 2900,
+        "2024-12": 2900,
+        "2024-11": 2900,
+        "2024-10": 3600,
+        "2024-09": 3600,
+        "2024-08": 2900
+      },
+      "trend": {
+        "monthly": 24,
+        "yearly": 24
+      },
+      "difficulty": 22
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד",
+      "search_volume": 110,
+      "competition": "MEDIUM",
+      "competition_score": 0.58,
+      "cpc": 6.35,
+      "intent": "commercial",
+      "intent_probability": 0.716,
+      "source": "DataForSEO",
+      "category": "legal_services",
+      "monthly_searches": {
+        "2025-07": 110,
+        "2025-06": 140,
+        "2025-05": 110,
+        "2025-04": 110,
+        "2025-03": 110,
+        "2025-02": 110,
+        "2025-01": 110,
+        "2024-12": 110,
+        "2024-11": 140,
+        "2024-10": 90,
+        "2024-09": 110,
+        "2024-08": 90
+      },
+      "trend": {
+        "monthly": -21,
+        "quarterly": -19,
+        "yearly": 22
+      },
+      "difficulty": 15
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד",
+      "search_volume": 90,
+      "competition": "MEDIUM",
+      "competition_score": 0.39,
+      "cpc": 3.92,
+      "intent": "commercial",
+      "intent_probability": 0.381,
+      "secondary_intent": "navigational",
+      "secondary_intent_probability": 0.335,
+      "source": "DataForSEO",
+      "category": "claims_process",
+      "monthly_searches": {
+        "2025-07": 110,
+        "2025-06": 70,
+        "2025-05": 90,
+        "2025-04": 90,
+        "2025-03": 90,
+        "2025-02": 90,
+        "2025-01": 90,
+        "2024-12": 90,
+        "2024-11": 90,
+        "2024-10": 90,
+        "2024-09": 90,
+        "2024-08": 70
+      },
+      "trend": {
+        "monthly": 57,
+        "quarterly": 22,
+        "yearly": 29
+      },
+      "difficulty": 17
+    },
+    {
+      "keyword": "ביטוח לאומי סיעוד",
+      "search_volume": 720,
+      "competition": "LOW",
+      "competition_score": 0.21,
+      "cpc": 1.94,
+      "intent": "informational",
+      "intent_probability": 0.557,
+      "secondary_intent": "navigational",
+      "secondary_intent_probability": 0.319,
+      "source": "DataForSEO",
+      "category": "government_benefits",
+      "monthly_searches": {
+        "2025-07": 720,
+        "2025-06": 590,
+        "2025-05": 720,
+        "2025-04": 720,
+        "2025-03": 720,
+        "2025-02": 590,
+        "2025-01": 720,
+        "2024-12": 720,
+        "2024-11": 720,
+        "2024-10": 590,
+        "2024-09": 720,
+        "2024-08": 590
+      },
+      "trend": {
+        "monthly": 22,
+        "yearly": 22
+      },
+      "difficulty": 12
+    },
+    {
+      "keyword": "גמלת סיעוד",
+      "search_volume": 1000,
+      "competition": "LOW",
+      "competition_score": 0.14,
+      "cpc": 1.21,
+      "intent": "informational",
+      "intent_probability": 0.508,
+      "secondary_intent": "navigational",
+      "secondary_intent_probability": 0.323,
+      "source": "DataForSEO",
+      "category": "benefits",
+      "monthly_searches": {
+        "2025-07": 880,
+        "2025-06": 720,
+        "2025-05": 1000,
+        "2025-04": 1000,
+        "2025-03": 1300,
+        "2025-02": 1000,
+        "2025-01": 1000,
+        "2024-12": 1000,
+        "2024-11": 1000,
+        "2024-10": 1000,
+        "2024-09": 1000,
+        "2024-08": 1000
+      },
+      "trend": {
+        "monthly": 22,
+        "quarterly": -12,
+        "yearly": -12
+      },
+      "difficulty": 14
+    },
+    {
+      "keyword": "נקודות תלות ביטוח לאומי",
+      "search_volume": 480,
+      "competition": "LOW",
+      "competition_score": 0.12,
+      "cpc": 1.83,
+      "intent": "informational",
+      "intent_probability": 0.641,
+      "source": "DataForSEO",
+      "category": "assessment_criteria",
+      "monthly_searches": {
+        "2025-07": 480,
+        "2025-06": 390,
+        "2025-05": 480,
+        "2025-04": 480,
+        "2025-03": 480,
+        "2025-02": 480,
+        "2025-01": 480,
+        "2024-12": 480,
+        "2024-11": 590,
+        "2024-10": 480,
+        "2024-09": 480,
+        "2024-08": 390
+      },
+      "trend": {
+        "monthly": 23,
+        "yearly": 23
+      },
+      "difficulty": 19
+    },
+    {
+      "keyword": "מחשבון סיעוד",
+      "search_volume": 90,
+      "competition": "LOW",
+      "competition_score": 0.08,
+      "cpc": 0.91,
+      "intent": "informational",
+      "intent_probability": 0.555,
+      "secondary_intent": "navigational",
+      "secondary_intent_probability": 0.33,
+      "source": "DataForSEO",
+      "category": "calculation_tools",
+      "monthly_searches": {
+        "2025-07": 110,
+        "2025-06": 90,
+        "2025-05": 90,
+        "2025-04": 90,
+        "2025-03": 110,
+        "2025-02": 110,
+        "2025-01": 90,
+        "2024-12": 110,
+        "2024-11": 110,
+        "2024-10": 90,
+        "2024-09": 90,
+        "2024-08": 90
+      },
+      "trend": {
+        "monthly": 22,
+        "quarterly": 22
+      },
+      "difficulty": 8
+    },
+    {
+      "keyword": "ערעור ביטוח לאומי",
+      "search_volume": 170,
+      "competition": "LOW",
+      "competition_score": 0.06,
+      "cpc": 2.57,
+      "intent": "informational",
+      "intent_probability": 0.69,
+      "source": "DataForSEO",
+      "category": "appeals_process",
+      "monthly_searches": {
+        "2025-07": 170,
+        "2025-06": 110,
+        "2025-05": 170,
+        "2025-04": 170,
+        "2025-03": 170,
+        "2025-02": 210,
+        "2025-01": 140,
+        "2024-12": 210,
+        "2024-11": 140,
+        "2024-10": 110,
+        "2024-09": 170,
+        "2024-08": 110
+      },
+      "trend": {
+        "monthly": 55,
+        "yearly": 21
+      },
+      "difficulty": 2
+    },
+    {
+      "keyword": "איך להגיש תביעה ביטוח סיעוד",
+      "search_volume": 320,
+      "competition": "LOW",
+      "competition_score": 0.09,
+      "cpc": 1.83,
+      "intent": "informational",
+      "intent_probability": 0.773,
+      "source": "DataForSEO",
+      "category": "process_guidance",
+      "monthly_searches": {
+        "2025-07": 320,
+        "2025-06": 260,
+        "2025-05": 320,
+        "2025-04": 260,
+        "2025-03": 260,
+        "2025-02": 320,
+        "2025-01": 320,
+        "2024-12": 320,
+        "2024-11": 320,
+        "2024-10": 320,
+        "2024-09": 320,
+        "2024-08": 260
+      },
+      "trend": {
+        "monthly": 23,
+        "yearly": 23
+      },
+      "difficulty": 21
+    },
+    {
+      "keyword": "ערעור על החלטת ביטוח לאומי דוגמא",
+      "search_volume": 320,
+      "competition": "LOW",
+      "competition_score": 0.06,
+      "cpc": 0.8,
+      "intent": "informational",
+      "source": "DataForSEO",
+      "category": "appeals_templates",
+      "monthly_searches": {
+        "2025-07": 260,
+        "2025-06": 210,
+        "2025-05": 260,
+        "2025-04": 260,
+        "2025-03": 390,
+        "2025-02": 320,
+        "2025-01": 390,
+        "2024-12": 390,
+        "2024-11": 320,
+        "2024-10": 260,
+        "2024-09": 320,
+        "2024-08": 320
+      },
+      "trend": {
+        "monthly": 24,
+        "yearly": -46
+      },
+      "difficulty": 47
+    },
+    {
+      "keyword": "טופס ערעור ביטוח לאומי",
+      "search_volume": 210,
+      "competition": "LOW",
+      "cpc": null,
+      "intent": "informational",
+      "source": "DataForSEO",
+      "category": "forms_documents",
+      "monthly_searches": {
+        "2025-07": 260,
+        "2025-06": 260,
+        "2025-05": 260,
+        "2025-04": 170,
+        "2025-03": 260,
+        "2025-02": 210,
+        "2025-01": 210,
+        "2024-12": 210,
+        "2024-11": 210,
+        "2024-10": 210,
+        "2024-09": 210,
+        "2024-08": 210
+      },
+      "trend": {
+        "yearly": 24
+      },
+      "difficulty": 3
+    },
+    {
+      "keyword": "ערעור על החלטת ביטוח לאומי",
+      "search_volume": 210,
+      "competition": "LOW",
+      "competition_score": 0.08,
+      "cpc": 1.01,
+      "intent": "informational",
+      "source": "DataForSEO",
+      "category": "appeals_process",
+      "monthly_searches": {
+        "2025-07": 210,
+        "2025-06": 210,
+        "2025-05": 260,
+        "2025-04": 210,
+        "2025-03": 210,
+        "2025-02": 210,
+        "2025-01": 210,
+        "2024-12": 260,
+        "2024-11": 260,
+        "2024-10": 140,
+        "2024-09": 210,
+        "2024-08": 210
+      },
+      "trend": {
+        "quarterly": -19
+      }
+    },
+    {
+      "keyword": "הגשת ערעור ביטוח לאומי",
+      "search_volume": 110,
+      "competition": "LOW",
+      "competition_score": 0.04,
+      "cpc": 0.68,
+      "intent": "informational",
+      "source": "DataForSEO",
+      "category": "appeals_process",
+      "monthly_searches": {
+        "2025-07": 140,
+        "2025-06": 90,
+        "2025-05": 110,
+        "2025-04": 140,
+        "2025-03": 140,
+        "2025-02": 140,
+        "2025-01": 140,
+        "2024-12": 110,
+        "2024-11": 110,
+        "2024-10": 70,
+        "2024-09": 90,
+        "2024-08": 110
+      },
+      "trend": {
+        "monthly": 56,
+        "quarterly": 27,
+        "yearly": 27
+      },
+      "difficulty": 3
+    },
+    {
+      "keyword": "עורך דין ערעור ביטוח לאומי",
+      "search_volume": 20,
+      "competition": "HIGH",
+      "competition_score": 0.76,
+      "cpc": 5.17,
+      "intent": "commercial",
+      "source": "DataForSEO",
+      "category": "legal_services",
+      "monthly_searches": {
+        "2025-07": 10,
+        "2025-06": 10,
+        "2025-05": 20,
+        "2025-04": 40,
+        "2025-03": 40,
+        "2025-02": 30,
+        "2025-01": 10,
+        "2024-12": 10,
+        "2024-11": 10,
+        "2024-10": 10,
+        "2024-09": 20,
+        "2024-08": 10
+      },
+      "trend": {
+        "quarterly": -50
+      },
+      "difficulty": 36
+    },
+    {
+      "keyword": "תעודת מקבל סיעוד זכויות",
+      "search_volume": 50,
+      "competition": "MEDIUM",
+      "competition_score": 0.52,
+      "cpc": 1.73,
+      "intent": "informational",
+      "source": "DataForSEO",
+      "category": "rights_benefits",
+      "monthly_searches": {
+        "2025-07": 90,
+        "2025-06": 40,
+        "2025-05": 70,
+        "2025-04": 30,
+        "2025-03": 50,
+        "2025-02": 30,
+        "2025-01": 50,
+        "2024-12": 50,
+        "2024-11": 50,
+        "2024-10": 30,
+        "2024-09": 30,
+        "2024-08": 30
+      },
+      "trend": {
+        "monthly": 125,
+        "quarterly": 29,
+        "yearly": 29
+      }
+    },
+    {
+      "keyword": "זכויות עובדי סיעוד",
+      "search_volume": 10,
+      "competition": "LOW",
+      "competition_score": 0.23,
+      "cpc": 0.4,
+      "intent": "informational",
+      "source": "DataForSEO",
+      "category": "worker_rights",
+      "monthly_searches": {
+        "2025-07": 10,
+        "2025-05": 10,
+        "2025-04": 10,
+        "2025-03": 10,
+        "2025-02": 10,
+        "2025-01": 10,
+        "2024-12": 10,
+        "2024-10": 10,
+        "2024-08": 10
+      }
+    },
+    {
+      "keyword": "ביטוח סיעוד מה זה",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "ביטוח סיעוד מה זה ואיך יודעים אם זכאי",
+      "category": "basic_information"
+    },
+    {
+      "keyword": "איך יודעים אם זכאי לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "ביטוח סיעוד מה זה ואיך יודעים אם זכאי",
+      "category": "eligibility"
+    },
+    {
+      "keyword": "תנאי זכאות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "ביטוח סיעוד מה זה ואיך יודעים אם זכאי",
+      "category": "eligibility"
+    },
+    {
+      "keyword": "זכאות הורה לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד",
+      "category": "family_eligibility"
+    },
+    {
+      "keyword": "איך בודקים זכאות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד",
+      "category": "process_guidance"
+    },
+    {
+      "keyword": "ביטוח סיעוד למשפחות",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד",
+      "category": "family_information"
+    },
+    {
+      "keyword": "הבדל בעיות תפקוד אלצהיימר ביטוח",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד",
+      "category": "medical_conditions"
+    },
+    {
+      "keyword": "בעיות תפקוד ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד",
+      "category": "medical_conditions"
+    },
+    {
+      "keyword": "אלצהיימר ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד",
+      "category": "medical_conditions"
+    },
+    {
+      "keyword": "זכויות ביטוח סיעוד במצב רפואי",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הזכויות שלי לביטוח סיעוד עם מצב רפואי מורכב",
+      "category": "medical_rights"
+    },
+    {
+      "keyword": "מצב רפואי מורכב ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הזכויות שלי לביטוח סיעוד עם מצב רפואי מורכב",
+      "category": "medical_conditions"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד הוכחות רפואיות",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הזכויות שלי לביטוח סיעוד עם מצב רפואי מורכב",
+      "category": "medical_evidence"
+    },
+    {
+      "keyword": "ביטוח סיעוד בזקנה",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה",
+      "category": "elderly_care"
+    },
+    {
+      "keyword": "מתי להגיש בקשה ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה",
+      "category": "timing"
+    },
+    {
+      "keyword": "תכנון ביטוח סיעוד מוקדם",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה",
+      "category": "planning"
+    },
+    {
+      "keyword": "איך פועל תהליך הערעור ביטוח לאומי",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור",
+      "category": "appeals_process"
+    },
+    {
+      "keyword": "עורך דין לערעור ביטוח לאומי",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור",
+      "category": "legal_services"
+    },
+    {
+      "keyword": "עזרת עורך דין בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור",
+      "category": "legal_assistance"
+    },
+    {
+      "keyword": "זמנים ערעור ביטוח לאומי",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "כמה זמן לוקח התהליך ומה הזמנים החשובים",
+      "category": "timeline"
+    },
+    {
+      "keyword": "לוח זמנים תביעת ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "כמה זמן לוקח התהליך ומה הזמנים החשובים",
+      "category": "timeline"
+    },
+    {
+      "keyword": "מועדים חשובים בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "כמה זמן לוקח התהליך ומה הזמנים החשובים",
+      "category": "deadlines"
+    },
+    {
+      "keyword": "טעויות נפוצות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הטעויות הנפוצות שאנשים עושים בתביעות ביטוח סיעוד",
+      "category": "common_mistakes"
+    },
+    {
+      "keyword": "איך להימנע מטעויות בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הטעויות הנפוצות שאנשים עושים בתביעות ביטוח סיעוד",
+      "category": "prevention_advice"
+    },
+    {
+      "keyword": "כשלים בתביעות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הטעויות הנפוצות שאנשים עושים בתביעות ביטוח סיעוד",
+      "category": "failure_analysis"
+    },
+    {
+      "keyword": "נדחתה תביעה לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה לעשות אם התביעה שלי נדחתה ואיך לערער",
+      "category": "rejection_handling"
+    },
+    {
+      "keyword": "איך לערער על דחיית תביעה",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה לעשות אם התביעה שלי נדחתה ואיך לערער",
+      "category": "appeals_process"
+    },
+    {
+      "keyword": "סיבות לדחיית ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה לעשות אם התביעה שלי נדחתה ואיך לערער",
+      "category": "rejection_reasons"
+    },
+    {
+      "keyword": "עלות עורך דין ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי",
+      "category": "cost_analysis"
+    },
+    {
+      "keyword": "שכר טרחה עורך דין ביטוח",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי",
+      "category": "legal_fees"
+    },
+    {
+      "keyword": "כדאיות עורך דין בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי",
+      "category": "cost_benefit"
+    },
+    {
+      "keyword": "הבדלים ביטוח פרטי וביטוח לאומי סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד",
+      "category": "insurance_comparison"
+    },
+    {
+      "keyword": "יתרונות ביטוח פרטי סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד",
+      "category": "private_insurance"
+    },
+    {
+      "keyword": "השוואת ביטוח סיעוד פרטי מול לאומי",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד",
+      "category": "insurance_comparison"
+    },
+    {
+      "keyword": "זכויות בחירה ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול",
+      "category": "treatment_options"
+    },
+    {
+      "keyword": "סוגי טיפול ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול",
+      "category": "treatment_types"
+    },
+    {
+      "keyword": "בחירת ספק טיפול ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול",
+      "category": "provider_selection"
+    },
+    {
+      "keyword": "תופעות לוואי של תרופות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך תופעות הלוואי של תרופות משפיעות על הזכאות",
+      "category": "medication_effects"
+    },
+    {
+      "keyword": "השפעת תרופות על זכאות סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך תופעות הלוואי של תרופות משפיעות על הזכאות",
+      "category": "medication_impact"
+    },
+    {
+      "keyword": "זכאות ביטוח סיעוד עם תרופות",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך תופעות הלוואי של תרופות משפיעות על הזכאות",
+      "category": "medication_eligibility"
+    },
+    {
+      "keyword": "זכויות משפחה בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הזכויות של בני המשפחה במהלך הטיפול",
+      "category": "family_rights"
+    },
+    {
+      "keyword": "תפקיד המשפחה בטיפול סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הזכויות של בני המשפחה במהלך הטיפול",
+      "category": "family_involvement"
+    },
+    {
+      "keyword": "עזרה למשפחות בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה הזכויות של בני המשפחה במהלך הטיפול",
+      "category": "family_support"
+    },
+    {
+      "keyword": "שינוי מצב ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה קורה אם המצב משתנה למטב או למרע",
+      "category": "condition_changes"
+    },
+    {
+      "keyword": "עדכון סטטוס ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה קורה אם המצב משתנה למטב או למרע",
+      "category": "status_updates"
+    },
+    {
+      "keyword": "התדרדרות מצב בביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה קורה אם המצב משתנה למטב או למרע",
+      "category": "deterioration"
+    },
+    {
+      "keyword": "שיפור מצב ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה קורה אם המצב משתנה למטב או למרע",
+      "category": "improvement"
+    },
+    {
+      "keyword": "ביטוח סיעוד בגיל צעיר",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "האם גם אנשים צעירים יכולים לקבל ביטוח סיעוד",
+      "category": "young_adults"
+    },
+    {
+      "keyword": "זכאות צעירים לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "האם גם אנשים צעירים יכולים לקבל ביטוח סיעוד",
+      "category": "young_eligibility"
+    },
+    {
+      "keyword": "תנאי גיל לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "האם גם אנשים צעירים יכולים לקבל ביטוח סיעוד",
+      "category": "age_requirements"
+    },
+    {
+      "keyword": "ביטוח סיעוד חוץ לארץ",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה עם אנשים שגרים בחוץ לארץ או רוצים לטפל שם",
+      "category": "international"
+    },
+    {
+      "keyword": "זכאות תושבי חוץ לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה עם אנשים שגרים בחוץ לארץ או רוצים לטפל שם",
+      "category": "overseas_residents"
+    },
+    {
+      "keyword": "טיפול סיעוד בחוץ לארץ",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה עם אנשים שגרים בחוץ לארץ או רוצים לטפל שם",
+      "category": "overseas_care"
+    },
+    {
+      "keyword": "הערכה מחדש ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות",
+      "category": "reassessment"
+    },
+    {
+      "keyword": "בדיקה תקופתית ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות",
+      "category": "periodic_review"
+    },
+    {
+      "keyword": "תדירות בדיקות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות",
+      "category": "review_frequency"
+    },
+    {
+      "keyword": "איך להכין עצמי לבדיקת ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך להכין את עצמי לבדיקה עם הרופא המעריך",
+      "category": "preparation"
+    },
+    {
+      "keyword": "בדיקה רפואית לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך להכין את עצמי לבדיקה עם הרופא המעריך",
+      "category": "medical_evaluation"
+    },
+    {
+      "keyword": "רופא מעריך ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך להכין את עצמי לבדיקה עם הרופא המעריך",
+      "category": "medical_examiner"
+    },
+    {
+      "keyword": "טיפים לבדיקת ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "איך להכין את עצמי לבדיקה עם הרופא המעריך",
+      "category": "examination_tips"
+    },
+    {
+      "keyword": "מסמכים נדרשים ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "אילו מסמכים צריך להכין מראש לתביעה",
+      "category": "required_documents"
+    },
+    {
+      "keyword": "רשימת מסמכים לתביעת סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "אילו מסמכים צריך להכין מראש לתביעה",
+      "category": "document_checklist"
+    },
+    {
+      "keyword": "הכנת תיק רפואי לביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "אילו מסמכים צריך להכין מראש לתביעה",
+      "category": "medical_records"
+    },
+    {
+      "keyword": "שאלות נפוצות ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "informational",
+      "source": "AI_generated",
+      "source_question": "מה השאלות החשובות שצריך לשאול עורך דין",
+      "category": "frequently_asked"
+    },
+    {
+      "keyword": "ייעוץ משפטי ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "מה השאלות החשובות שצריך לשאול עורך דין",
+      "category": "legal_consultation"
+    },
+    {
+      "keyword": "שאלות לעורך דין ביטוח סיעוד",
+      "search_volume": null,
+      "competition": null,
+      "cpc": null,
+      "intent": "commercial",
+      "source": "AI_generated",
+      "source_question": "מה השאלות החשובות שצריך לשאול עורך דין",
+      "category": "legal_questions"
+    }
+  ]
+}

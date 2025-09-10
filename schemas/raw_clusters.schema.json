@@ -1,0 +1,35 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Keyword Clusters (Raw) — v1.1",
+  "type": "object",
+  "properties": {
+    "clusters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "cluster_name": { "type": "string" },
+          "dominant_intent": {
+            "type": "string",
+            "enum": ["informational", "navigational", "transactional", "commercial"]
+          },
+          "keywords": {
+            "type": "array",
+            "items": { "type": "object", "required": ["keyword"], "additionalProperties": true }
+          }
+        },
+        "required": ["cluster_name", "keywords"]
+      }
+    },
+    "_meta": {
+      "type": "object",
+      "properties": {
+        "schema_version": { "type": "string", "const": "1.1.0-raw" },
+        "produced_by": { "type": "string", "const": "keyword_clustering_raw" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      },
+      "required": ["schema_version", "produced_by", "timestamp"]
+    }
+  },
+  "required": ["clusters", "_meta"]
+}

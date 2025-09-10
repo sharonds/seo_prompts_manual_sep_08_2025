@@ -1,0 +1,538 @@
+{
+  "language": "he",
+  "keywords": [
+    {
+      "keyword": "ביטוח סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "מה זה ביטוח סיעוד ואיך הוא עובד?"
+    },
+    {
+      "keyword": "עורך דין ביטוח סיעוד",
+      "intent": "commercial",
+      "source": "dataforseo",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד",
+      "intent": "commercial",
+      "source": "dataforseo",
+      "seed_from": "מה לעשות אם התביעה שלי נדחתה ואיך לערער"
+    },
+    {
+      "keyword": "ביטוח לאומי סיעוד",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד"
+    },
+    {
+      "keyword": "גמלת סיעוד",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה"
+    },
+    {
+      "keyword": "נקודות תלות ביטוח לאומי",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות"
+    },
+    {
+      "keyword": "מחשבון סיעוד",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי"
+    },
+    {
+      "keyword": "ערעור ביטוח לאומי",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "איך להגיש תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "איך מגישים תביעת ביטוח סיעוד צעד צעד"
+    },
+    {
+      "keyword": "ערעור על החלטת ביטוח לאומי דוגמא",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "מה לעשות אם התביעה שלי נדחתה ואיך לערער"
+    },
+    {
+      "keyword": "טופס ערעור ביטוח לאומי",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "אילו מסמכים צריך להכין מראש לתביעה"
+    },
+    {
+      "keyword": "ערעור על החלטת ביטוח לאומי",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "הגשת ערעור ביטוח לאומי",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "עורך דין ערעור ביטוח לאומי",
+      "intent": "commercial",
+      "source": "dataforseo",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "תעודת מקבל סיעוד זכויות",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול"
+    },
+    {
+      "keyword": "זכויות עובדי סיעוד",
+      "intent": "informational",
+      "source": "dataforseo",
+      "seed_from": "מה הזכויות של בני המשפחה במהלך הטיפול"
+    },
+    {
+      "keyword": "ביטוח סיעוד מה זה",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "ביטוח סיעוד מה זה ואיך יודעים אם זכאי"
+    },
+    {
+      "keyword": "איך יודעים אם זכאי לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "ביטוח סיעוד מה זה ואיך יודעים אם זכאי"
+    },
+    {
+      "keyword": "תנאי זכאות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "ביטוח סיעוד מה זה ואיך יודעים אם זכאי"
+    },
+    {
+      "keyword": "זכאות הורה לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד"
+    },
+    {
+      "keyword": "איך בודקים זכאות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד"
+    },
+    {
+      "keyword": "ביטוח סיעוד למשפחות",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "כמשפחה איך יודעים אם ההורה זכאי לביטוח סיעוד"
+    },
+    {
+      "keyword": "הבדל בעיות תפקוד אלצהיימר ביטוח",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד"
+    },
+    {
+      "keyword": "בעיות תפקוד ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד"
+    },
+    {
+      "keyword": "אלצהיימר ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה ההבדל בין בעיות תפקוד לאלצהיימר בביטוח סיעוד"
+    },
+    {
+      "keyword": "זכויות ביטוח סיעוד במצב רפואי",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות שלי לביטוח סיעוד עם מצב רפואי מורכב"
+    },
+    {
+      "keyword": "מצב רפואי מורכב ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות שלי לביטוח סיעוד עם מצב רפואי מורכב"
+    },
+    {
+      "keyword": "תביעת ביטוח סיעוד הוכחות רפואיות",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות שלי לביטוח סיעוד עם מצב רפואי מורכב"
+    },
+    {
+      "keyword": "ביטוח סיעוד בזקנה",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה"
+    },
+    {
+      "keyword": "מתי להגיש בקשה ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה"
+    },
+    {
+      "keyword": "תכנון ביטוח סיעוד מוקדם",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מתי בדיוק צריך להתחיל לחשוב על ביטוח סיעוד בזקנה"
+    },
+    {
+      "keyword": "איך פועל תהליך הערעור ביטוח לאומי",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "עורך דין לערעור ביטוח לאומי",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "עזרת עורך דין בביטוח סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "איך פועל תהליך הערעור ואיך עורך דין יכול לעזור"
+    },
+    {
+      "keyword": "זמנים ערעור ביטוח לאומי",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "כמה זמן לוקח התהליך ומה הזמנים החשובים"
+    },
+    {
+      "keyword": "לוח זמנים תביעת ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "כמה זמן לוקח התהליך ומה הזמנים החשובים"
+    },
+    {
+      "keyword": "מועדים חשובים בביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "כמה זמן לוקח התהליך ומה הזמנים החשובים"
+    },
+    {
+      "keyword": "טעויות נפוצות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הטעויות הנפוצות שאנשים עושים בתביעות ביטוח סיעוד"
+    },
+    {
+      "keyword": "איך להימנע מטעויות בביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הטעויות הנפוצות שאנשים עושים בתביעות ביטוח סיעוד"
+    },
+    {
+      "keyword": "כשלים בתביעות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הטעויות הנפוצות שאנשים עושים בתביעות ביטוח סיעוד"
+    },
+    {
+      "keyword": "נדחתה תביעה לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה לעשות אם התביעה שלי נדחתה ואיך לערער"
+    },
+    {
+      "keyword": "איך לערער על דחיית תביעה",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה לעשות אם התביעה שלי נדחתה ואיך לערער"
+    },
+    {
+      "keyword": "סיבות לדחיית ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה לעשות אם התביעה שלי נדחתה ואיך לערער"
+    },
+    {
+      "keyword": "עלות עורך דין ביטוח סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי"
+    },
+    {
+      "keyword": "שכר טרחה עורך דין ביטוח",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי"
+    },
+    {
+      "keyword": "כדאיות עורך דין בביטוח סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "כמה עולה עורך דין לביטוח סיעוד ומתי זה כדאי"
+    },
+    {
+      "keyword": "הבדלים ביטוח פרטי וביטוח לאומי סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד"
+    },
+    {
+      "keyword": "יתרונות ביטוח פרטי סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד"
+    },
+    {
+      "keyword": "השוואת ביטוח סיעוד פרטי מול לאומי",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "מה ההבדלים בין ביטוח פרטי לביטוח לאומי בסיעוד"
+    },
+    {
+      "keyword": "זכויות בחירה ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול"
+    },
+    {
+      "keyword": "סוגי טיפול ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול"
+    },
+    {
+      "keyword": "בחירת ספק טיפול ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איזה זכויות בחירה יש לי בסוגי הטיפול והטיפול"
+    },
+    {
+      "keyword": "תופעות לוואי של תרופות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך תופעות הלוואי של תרופות משפיעות על הזכאות"
+    },
+    {
+      "keyword": "השפעת תרופות על זכאות סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך תופעות הלוואי של תרופות משפיעות על הזכאות"
+    },
+    {
+      "keyword": "זכאות ביטוח סיעוד עם תרופות",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך תופעות הלוואי של תרופות משפיעות על הזכאות"
+    },
+    {
+      "keyword": "זכויות משפחה בביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות של בני המשפחה במהלך הטיפול"
+    },
+    {
+      "keyword": "תפקיד המשפחה בטיפול סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות של בני המשפחה במהלך הטיפול"
+    },
+    {
+      "keyword": "עזרה למשפחות בביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות של בני המשפחה במהלך הטיפול"
+    },
+    {
+      "keyword": "שינוי מצב ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה קורה אם המצב משתנה למטב או למרע"
+    },
+    {
+      "keyword": "עדכון סטטוס ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה קורה אם המצב משתנה למטב או למרע"
+    },
+    {
+      "keyword": "התדרדרות מצב בביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה קורה אם המצב משתנה למטב או למרע"
+    },
+    {
+      "keyword": "שיפור מצב ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה קורה אם המצב משתנה למטב או למרע"
+    },
+    {
+      "keyword": "ביטוח סיעוד בגיל צעיר",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "האם גם אנשים צעירים יכולים לקבל ביטוח סיעוד"
+    },
+    {
+      "keyword": "זכאות צעירים לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "האם גם אנשים צעירים יכולים לקבל ביטוח סיעוד"
+    },
+    {
+      "keyword": "תנאי גיל לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "האם גם אנשים צעירים יכולים לקבל ביטוח סיעוד"
+    },
+    {
+      "keyword": "ביטוח סיעוד חוץ לארץ",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה עם אנשים שגרים בחוץ לארץ או רוצים לטפל שם"
+    },
+    {
+      "keyword": "זכאות תושבי חוץ לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה עם אנשים שגרים בחוץ לארץ או רוצים לטפל שם"
+    },
+    {
+      "keyword": "טיפול סיעוד בחוץ לארץ",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה עם אנשים שגרים בחוץ לארץ או רוצים לטפל שם"
+    },
+    {
+      "keyword": "הערכה מחדש ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות"
+    },
+    {
+      "keyword": "בדיקה תקופתית ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות"
+    },
+    {
+      "keyword": "תדירות בדיקות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך מתבצעת הערכה מחדש של המצב ובאיזה תדירות"
+    },
+    {
+      "keyword": "איך להכין עצמי לבדיקת ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך להכין את עצמי לבדיקה עם הרופא המעריך"
+    },
+    {
+      "keyword": "בדיקה רפואית לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך להכין את עצמי לבדיקה עם הרופא המעריך"
+    },
+    {
+      "keyword": "רופא מעריך ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך להכין את עצמי לבדיקה עם הרופא המעריך"
+    },
+    {
+      "keyword": "טיפים לבדיקת ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך להכין את עצמי לבדיקה עם הרופא המעריך"
+    },
+    {
+      "keyword": "מסמכים נדרשים ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "אילו מסמכים צריך להכין מראש לתביעה"
+    },
+    {
+      "keyword": "רשימת מסמכים לתביעת סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "אילו מסמכים צריך להכין מראש לתביעה"
+    },
+    {
+      "keyword": "הכנת תיק רפואי לביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "אילו מסמכים צריך להכין מראש לתביעה"
+    },
+    {
+      "keyword": "שאלות נפוצות ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה השאלות החשובות שצריך לשאול עורך דין"
+    },
+    {
+      "keyword": "ייעוץ משפטי ביטוח סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "מה השאלות החשובות שצריך לשאול עורך דין"
+    },
+    {
+      "keyword": "שאלות לעורך דין ביטוח סיעוד",
+      "intent": "commercial",
+      "source": "ai",
+      "seed_from": "מה השאלות החשובות שצריך לשאול עורך דין"
+    },
+    {
+      "keyword": "למה דוחים תביעת ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "למה חברת הביטוח דוחה תביעה סיעוד"
+    },
+    {
+      "keyword": "סיבות דחיית תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "למה חברת הביטוח דוחה תביעה סיעוד"
+    },
+    {
+      "keyword": "חברת ביטוח דוחה תביעה סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "למה חברת הביטוח דוחה תביעה סיעוד"
+    },
+    {
+      "keyword": "איך מגישים תביעת ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך מגישים תביעת ביטוח סיעוד צעד צעד"
+    },
+    {
+      "keyword": "תהליך הגשת תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך מגישים תביעת ביטוח סיעוד צעד צעד"
+    },
+    {
+      "keyword": "מדריך הגשת תביעה ביטוח סיעוד",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "איך מגישים תביעת ביטוח סיעוד צעד צעד"
+    },
+    {
+      "keyword": "זכויות מבוטח מול חברת ביטוח",
+      "intent": "informational",
+      "source": "ai",
+      "seed_from": "מה הזכויות שלי כמבוטח מול חברת הביטוח"
+    }
+  ],
+  "_meta": {
+    "schema_version": "1.0.0",
+    "produced_by": "keyword_discovery",
+    "timestamp": "2025-01-09T12:45:00Z"
+  }
+}
